@@ -10,7 +10,46 @@ This project provides a set of scripts to correct OCR output using few-shot or z
 
 ### Directory Trees
 ```
-├───bali                                                                                                                │   ├───ann                                                                                                             │   ├───ots                                                                                                             │   ├───post-ocr-correction                                                                                             │   │   ├───llama3-70b-instruct_fewShot                                                                                 │   │   └───llama3-70b-instruct_zeroShot                                                                                │   ├───prompt-template                                                                                                 │   │   ├───llama3-70b-instruct_fewShot                                                                                 │   │   └───llama3-70b-instruct_zeroShot                                                                                │   └───wordsList                                                                                                       ├───jawa                                                                                                                │   ├───ann                                                                                                             │   ├───ots                                                                                                             │   ├───post-ocr-correction                                                                                             │   │   ├───llama3-70b-instruct_fewShot                                                                                 │   │   └───llama3-70b-instruct_zeroShot                                                                                │   ├───prompt-template                                                                                                 │   │   ├───llama3-70b-instruct_fewShot                                                                                 │   │   └───llama3-70b-instruct_zeroShot                                                                                │   └───wordsList                                                                                                       ├───minang                                                                                                              │   ├───ann                                                                                                             │   ├───ots                                                                                                             │   ├───post-ocr-correction                                                                                             │   │   ├───llama3-70b-instruct_fewShot                                                                                 │   │   └───llama3-70b-instruct_zeroShot                                                                                │   ├───prompt-template                                                                                                 │   │   ├───llama3-70b-instruct_fewShot                                                                                 │   │   └───llama3-70b-instruct_zeroShot                                                                                │   └───wordsList                                                                                                       └───sunda                                                                                                                   ├───ann                                                                                                                 ├───ots                                                                                                                 ├───post-ocr-correction                                                                                                 │   ├───llama3-70b-instruct_fewShot                                                                                     │   └───llama3-70b-instruct_zeroShot                                                                                    ├───prompt-template                                                                                                     │   ├───llama3-70b-instruct_fewShot                                                                                     │   └───llama3-70b-instruct_zeroShot                                                                                    └───wordsList                                 
+├───bali
+│   ├───ann
+│   ├───ots
+│   ├───post-ocr-correction
+│   │   ├───llama3-70b-instruct_fewShot
+│   │   └───llama3-70b-instruct_zeroShot
+│   ├───prompt-template
+│   │   ├───llama3-70b-instruct_fewShot
+│   │   └───llama3-70b-instruct_zeroShot
+│   └───wordsList
+├───jawa
+│   ├───ann
+│   ├───ots
+│   ├───post-ocr-correction
+│   │   ├───llama3-70b-instruct_fewShot
+│   │   └───llama3-70b-instruct_zeroShot
+│   ├───prompt-template
+│   │   ├───llama3-70b-instruct_fewShot
+│   │   └───llama3-70b-instruct_zeroShot
+│   └───wordsList
+├───minang
+│   ├───ann
+│   ├───ots
+│   ├───post-ocr-correction
+│   │   ├───llama3-70b-instruct_fewShot
+│   │   └───llama3-70b-instruct_zeroShot
+│   ├───prompt-template
+│   │   ├───llama3-70b-instruct_fewShot
+│   │   └───llama3-70b-instruct_zeroShot
+│   └───wordsList
+└───sunda
+    ├───ann
+    ├───ots
+    ├───post-ocr-correction
+    │   ├───llama3-70b-instruct_fewShot
+    │   └───llama3-70b-instruct_zeroShot
+    ├───prompt-template
+    │   ├───llama3-70b-instruct_fewShot
+    │   └───llama3-70b-instruct_zeroShot
+    └───wordsList
 ```
 
 ### Files
