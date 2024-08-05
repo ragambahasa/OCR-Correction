@@ -12,41 +12,61 @@ This project provides a set of scripts to correct OCR output using few-shot or z
 ```
 ├───bali
 │   ├───ann
+│   ├───img
 │   ├───ots
 │   ├───post-ocr-correction
+│   │   ├───gpt-4o_fewShot
+│   │   ├───gpt-4o_zeroShot
 │   │   ├───llama3-70b-instruct_fewShot
 │   │   └───llama3-70b-instruct_zeroShot
 │   ├───prompt-template
+│   │   ├───gpt-4o_fewShot
+│   │   ├───gpt-4o_zeroShot
 │   │   ├───llama3-70b-instruct_fewShot
 │   │   └───llama3-70b-instruct_zeroShot
 │   └───wordsList
 ├───jawa
 │   ├───ann
+│   ├───img
 │   ├───ots
 │   ├───post-ocr-correction
+│   │   ├───gpt-4o_fewShot
+│   │   ├───gpt-4o_zeroShot
 │   │   ├───llama3-70b-instruct_fewShot
 │   │   └───llama3-70b-instruct_zeroShot
 │   ├───prompt-template
+│   │   ├───gpt-4o_fewShot
+│   │   ├───gpt-4o_zeroShot
 │   │   ├───llama3-70b-instruct_fewShot
 │   │   └───llama3-70b-instruct_zeroShot
 │   └───wordsList
 ├───minang
 │   ├───ann
+│   ├───img
 │   ├───ots
 │   ├───post-ocr-correction
+│   │   ├───gpt-4o_fewShot
+│   │   ├───gpt-4o_zeroShot
 │   │   ├───llama3-70b-instruct_fewShot
 │   │   └───llama3-70b-instruct_zeroShot
 │   ├───prompt-template
+│   │   ├───gpt-4o_fewShot
+│   │   ├───gpt-4o_zeroShot
 │   │   ├───llama3-70b-instruct_fewShot
 │   │   └───llama3-70b-instruct_zeroShot
 │   └───wordsList
 └───sunda
     ├───ann
+    ├───img
     ├───ots
     ├───post-ocr-correction
+    │   ├───gpt-4o_fewShot
+    │   ├───gpt-4o_zeroShot
     │   ├───llama3-70b-instruct_fewShot
     │   └───llama3-70b-instruct_zeroShot
     ├───prompt-template
+    │   ├───gpt-4o_fewShot
+    │   ├───gpt-4o_zeroShot
     │   ├───llama3-70b-instruct_fewShot
     │   └───llama3-70b-instruct_zeroShot
     └───wordsList
