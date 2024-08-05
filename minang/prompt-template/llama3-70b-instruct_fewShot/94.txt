@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sasudah si Bujang Paman manjadi rajo -- sagalo harato ayah kanduangnyo -- sarato harato mandeh dengan mamaknyo -- babaliak kapado inyo kasadonyo -- baitu juo tantang kabau dengan bantiang -- sarato jo taranak ayam jo itiak -- nan tantangan bini dek Rajo Aniayo -- nan mandeh tirihnyo dek si Bujang Paman -- disanangkannyo salamonyo -- dibarinyo rumah dengan sawah -- sarato kabau dengan bantiang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+dengan: maente,balere,bapate
+Aniayo: Aniayo,Aniayo,Aniayo
+sawah: sawah,sawah,sawah
+jo: jo,jo,jo
+bini: bini,bini,bini
+kabau: kabau,kabau,kabau
+Sasudah: Sasudah,Sasudah,Sasudah
+rumah: rumah,rumah,rumah
+dek: dek,dek,dek
+babaliak: babalian,tabaliak,disabali
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

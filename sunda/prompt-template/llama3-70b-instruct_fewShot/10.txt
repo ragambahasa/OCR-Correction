@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+nk henna Eeareniaes, ~ aia Euleuh atoheunana Salim jeung Abdullah mani anjrag- ajragan, barang dibere lawon keur papakean teh, mangkaning tilu rupa: keur dastar, keur harudum jeung keur samping nu beunang dicawetkeun. Kajeun teuing cenah barangpake cara abid di Zanzibar oge, asal ulah ulutud bae, teu kaduga, era.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+teu: teu,teu,teu
+lawon: lawon,lawon,lawon
+harudum: harudum,harudum,harudum
+nk: nk,nk,nk
+barang: barang,barang,barang
+ajragan,: ajrag-aj
+cenah: genah,genah,peren
+keur: keur,keur,keur
+nu: nu,nu,nu
+ulutud: ulutud,ulutud,ulutud
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

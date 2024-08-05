@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Ipun ngamolihang napi sane kaaptiang tur nyihnayang majeng ring jagate sami kawentenan kalaraan punika nenten patut kasalahang. Yening jagi ngrereh napi sane kaaptiang, punika patut mautsaha siling tunggilnyane ngruruh aji kaweruhan. Carita ring bukune puniki nyihnayang boya ja sane siteng sane utama, wantah sang sane mautsaha, seleg, teleb, miwah setata malajahang angga sane prasida jayanti ring kauripane.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+utama,: utama,utama,utama
+tur: tur,tur,tur
+Carita: Arita,Aritan,Aritan
+sang: sang,sang,sang
+patut: patut,patut,patut
+malajahang: malajahang,malajahang,palajahan
+sami: sami,sami,sami
+siteng: siteng,siteng,siteng
+teleb,: teleb,teleb,teleba
+jagi: jagi,jagi,jagi
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

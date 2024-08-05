@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Barang breng jamparing, haok kapala perang balad Arab marentah lumpat. Beretek kabeh lumpat tarik, rob kana kandang- jaga bari surak, congo bedil diponcor-poncorkeun kana sela-sela pager. Borobot-borobot sora bedil terus morobot ti kaler ti kidul. Anu keuna ku jamparing tinggaloler di tegal, sawareh geus taya nu malire, ku batur pada ninggalkeun. Tapi hate kaprajuritanana Nngarasa puas, dipangmaleskeun kanyerianana, suka hatena bisa keneh ngadenge nu tinggarero, tinggaroak, tingjarerit.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bedil: sedil,sedil
+rob: rob,rob,rob
+breng: breng,breng,breng
+congo: tongo,bongo,jocon
+hate: hate,hate,hate
+lumpat: lumpan,lulump
+Barang: Barang,Barang,Barang
+keuna: keuna,keuna,keuna
+kapala: kapala,kapala,kumapa
+kabeh: kabel,kabeu
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

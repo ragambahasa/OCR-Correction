@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Dek urang Puti Bungsu -- manjawab juo inyo maso itu, O Tuan kanduang Kambang Luari -- sajak samulo denai tagahkan Tuan pai -- ka galanggang Puti Santan Batapih -- tapi Tuan tidak namuah denai tagahkan -- kini lah iko ka jadinyo.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

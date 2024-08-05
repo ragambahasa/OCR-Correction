@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+| Bagus Caratan nepuk unduk di kedatuanee ento. la tengkejut krana ada anak ane nyemak awaknee. Ento tuah prajurit ane mekita nginem yeh. Krana caratane ento luung, abana ka kedatuan. r
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tengkejut: tengkejut,tengkejut,tengkejut
+prajurit: prajurit,prajurit,prajurit
+unduk: unduk,unduk,unduk
+ento.: ento,cento,gento
+di: di,di,di
+luung,: luung,luung,luung
+ada: ada,ada,ada
+krana: krana,krana,krana
+caratane: caratan,caratan
+tuah: tuah,tuah,tuah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

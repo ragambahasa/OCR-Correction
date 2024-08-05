@@ -1,0 +1,10 @@
+{"input": "bareng", "output": "bareng,bareng,bareng"}
+{"input": "sing", "output": "sing,sing,sing"}
+{"input": "buruk", "output": "buruk,> bur,buru"}
+{"input": "kowe", "output": "kowe,kowe"}
+{"input": "Mangun", "output": "Wangun,Wangun,Wangun"}
+{"input": "wadon", "output": "wadon,wadon,wadon"}
+{"input": "nek", "output": "nek,nek,nek"}
+{"input": "tara", "output": "tara,tara,tara"}
+{"input": "kena", "output": "kena,kena,kena"}
+{"input": "Kades", "output": "Akade,Ngena"}

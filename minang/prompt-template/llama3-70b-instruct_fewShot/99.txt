@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sadang barundiang-rundiang juo -- nasi talatak jo hedangan -- alah makan malah kaduonyo -- alah sudah makan dengan minum -- sarato marokok makan siriah -- sadang dilamun pikiran masiang-masiang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+alah: alah,alah,alah
+sudah: sudah,sudah,sudah
+marokok: marokok,marokok,tarokok
+minum: minum,minum,minum
+siriah: siriah,siriah,siriah
+malah: alah,alah,balah
+jo: jo,jo,jo
+dengan: maente,balere,bapate
+juo: juo,juo
+sarato: sarato,sarato,sarato
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

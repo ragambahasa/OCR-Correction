@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+oe ne ee eee eee NO NEN Warsiah nyumputna bisa teu katenjoeun ku Harja, tapi ma- nehna awas ka Harja, ngintip tina sela-sela panto, awaseun pi- san. Hatena miani ratug, ngambekan asa eungap. Kacida maneh- na keuheulna jeung ngewana ka salaki, ngan hadena bisa ke- neh nahan napsu. Lila-lila manehna maksakeun maneh, nyam- peurkeun ka salaki. , nn ol a a a . ee
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+teu: teu,teu,teu
+nahan: naha,lahan,lahan
+panto,: panto,panto 
+asa: asa,asa,asa
+salaki.: salaki
+miani: miang,miang,miang
+jeung: jeung,jeung,jeung
+ratug,: ratug
+Kacida: Kacida,Kacida,Kacida
+oe: oe,oe,jo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

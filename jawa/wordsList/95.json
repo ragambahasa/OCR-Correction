@@ -1,0 +1,10 @@
+{"input": "sing", "output": "sing,sing,sing"}
+{"input": "yo", "output": "yo,yo,yo"}
+{"input": "kaya-", "output": "kaya-,kaya-,kaya-"}
+{"input": "!", "output": "!,!,p"}
+{"input": "arep", "output": "arep,arep,arep"}
+{"input": "barang", "output": "barang,barang,barang"}
+{"input": "Pados", "output": "Padon"}
+{"input": "napa", "output": "napa,bab "}
+{"input": "kaya", "output": "kaya,kaya,kaya"}
+{"input": "banjur", "output": "banjur,banjur,banjur"}

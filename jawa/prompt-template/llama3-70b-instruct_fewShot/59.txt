@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Meh wae aku misuh. Kok sajak nemen tenan anggone mojokake aku. Dupeh aku iki mung sawijining paraga, sawi- jining wayang, kok mung dikongken tansah manut marang dhalange? Aku ora cocog karo panemu sing ngono kuwi. Aku kepengin nyebal saka sakabehing aturan-aturan sing ana ing jagad pakeliran.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+manut: manut,manut,manut
+karo: karo,karo,karo
+nemen: nemen,nemen,nemen
+ing: ing,ing,ing
+saka: saka,saka,saka
+marang: marang,marang,marang
+mung: mung,mung,mung
+Kok: Kok,Kok,Kok
+kepengin: kepengin,kepengin
+tansah: tansah,tansah,tansah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

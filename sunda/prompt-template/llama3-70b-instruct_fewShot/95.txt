@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Wah, abid, naha sia dipiwarang ku dunungan cicing bae. Ngadenge disebut abid, Abdullah cengkat, panonna munce- reng, nyentak ka Tipum: ,,Naon, aing jeung dulur disebut abid? Teu sudi najis teuing.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+aing: aing,aing,aing
+jeung: jeung,jeung,jeung
+naha: naha,naha,naha
+sia: sia,sia,sia
+dunungan: dunungan,dunungan
+cicing: cicing,cicing,cicing
+dulur: lulur,sulur,pupul
+teuing.: teuing,manateu,tada te
+reng,: heren,paren,piren
+ku: ku,ku,ku
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

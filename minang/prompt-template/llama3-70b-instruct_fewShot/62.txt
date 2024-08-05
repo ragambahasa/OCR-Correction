@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Nan tuo Sutan Sari Alam -- nan kaduo Sutan Palembang -- nan katigo si Awang Labiah -- nan kaampek Bagindo Mulia -- nan kalimo Mandukuang Alam -- nan kaanam Malin Duano -- nan ketek Puti nan Bungsu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Nan: Nan,Nan,Nan
+kaduo: kaduo,kaduo,kadu
+Sari: Sari,Sari,Sari
+Malin: Malin,Malin,Malin
+Alam: Alam,Alam,Alam
+katigo: katigo,katigo,batigo
+nan: nan,nan,nan
+Duano: Aduan,Iduan,Kadua
+kalimo: kalimo,kalimo,dalimo
+tuo: tuo,tuo,tuo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

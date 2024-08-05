@@ -1,0 +1,17 @@
+Please correct the OCR output in Balinese language:
+LE ee a i? , nn rena vy % ee av oF h y J 7 a. Ve {
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+LE: LE,LE,LE
+ee: ee,ee,ee
+a: a,a,a
+nn: nn,nn,nn
+rena: rena,rena,rena
+h: h,h,h
+y: y,y,y
+J: J,J,J
+Ve: Ve,Le
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

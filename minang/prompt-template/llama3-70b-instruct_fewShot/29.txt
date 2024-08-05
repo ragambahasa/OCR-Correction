@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Alah turun cando dari ateh kudo -- lalu bajalan manuju Balai- rong Sari -- dek lamo lambek nan di jalan -- alah tibo di Balairong Sari -- sanan bakato Pangulu Nagari, *Manolah Bujang nan piawai -- pailah japuik Tuan Puti -- parenai malah datang ka Balairong Sari -- katokan bahaso ado rajo nan datang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Puti: Puti,Puti,Puti
+piawai: diawai,diawai
+Nagari,: Nagari
+Pangulu: Pangulu,Pangulu
+datang: datang,datang,datang
+dek: dek,dek,dek
+ateh: ateh,ateh,ateh
+dari: dari,dari,dari
+alah: alah,alah,alah
+datang.: datang,datangi,datanga
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

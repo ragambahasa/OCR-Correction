@@ -1,0 +1,14 @@
+Please correct the OCR output in Sundanese language:
+Santen diihijikeun jeung adukan bumbu. Beuleum hayam dikeueum dina santen.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Santen: Santen,Santen,Anteng
+jeung: jeung,jeung,jeung
+Beuleum: Beuleum,Beuleum,Euleum
+hayam: hayam,hayam,hayan
+dina: dina,dina,dina
+santen.: santen
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

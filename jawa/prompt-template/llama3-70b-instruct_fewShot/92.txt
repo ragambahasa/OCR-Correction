@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+tn anit ORI ETS .2.Rtee Deira ty cATE SS PEA LIA AROS TA TOS Bie > 2% NB fe ? 4 oh ry fr any, ct sted ered Sue, ek Acnta, Fil ee na) al Ne la eet tO tee a! aD OP TI PE HOOT Eas
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+aD: aD,aD,aD
+SS: SS,SS,SS
+OP: OP,OP,OP
+TI: TI,TI,TI
+fr: fr,fr,fr
+>: >,>,>
+PEA: PEA,HOP
+LIA: LIA,ALI
+ry: ry,ry,ry
+al: al,al,al
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

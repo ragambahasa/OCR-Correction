@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Kekuwatane pikirane wong iku encene.gak padha, - nek wong iku encene imane kandel, onok apa apa ya wis pasrah ae barek Gusti, sing gae abang ijone lombok. Tapine nek pikirane cekak, kurang siraman agama barek budipekerti luhus, ketanggor masalah akeh terus mlayune ndhuk barang gak genah, dadi setres terus onok maneh sing bunuh dhiri. Tapi sing ndhuk Malang, termasuk sing gae miris nemen, bayangna kate bunuh dhiri ae athik mateni anake Kabeh, papat, masya Allah OMONGE NING SUMEH barek gedheg-gedheg.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+anake: anak,manak,naker
+maneh: panji
+cekak,: cekak,cekaka,cekaka
+OMONGE: OMONG,OMONG,MOMONG
+mateni: mateng,mateng,mateng
+lombok.: lombok
+ndhuk: ndhuk,ndhuk,ndhuk
+abang: abang,abang,abang
+masya: masya,golon
+dhiri.: aku dh,panyla,nylara
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

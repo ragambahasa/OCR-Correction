@@ -1,0 +1,17 @@
+Please correct the OCR output in Balinese language:
+Kenken dadi bengong, ada bayu maguru? Laan bareng-bareng ajak icang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+dadi: dadi,dadi,dadi
+bengong,: bengong,bengong,bengong
+ada: ada,ada,ada
+bayu: bayu,bayu,bayu
+maguru?: maguru,maguru
+Laan: Laan,Laan,Laan
+bareng-bareng: bareng-bareng,bareng-bareng
+ajak: ajak,ajak,ajak
+icang.: icang,icang,maican
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

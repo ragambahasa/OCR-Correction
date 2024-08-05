@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+; 1. Sigeg heula lampahna Ki Umarmaya, aya nu kocap deui, Raja di Mukadam, katatamuan besan, Sri Bopati ti Madayin, eukeur kasukan, sareng Raja Mukaji.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+aya: aya,aya,aya
+eukeur: eukeur,eukeur,eukeur
+di: di,di,di
+sareng: sareng,sareng,sareng
+heula: heula,heula,heula
+Sigeg: Sigeg,Sigeg,Sigeg
+Ki: Ki,Ki,Ki
+nu: nu,nu,nu
+Sri: Sri,Sri,Sri
+Raja: Raja,Raja,Raja
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

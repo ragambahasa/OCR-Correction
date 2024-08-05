@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kununlah si Magek Manandin -- dibukak malah bungkusan nantun -- dicaliak malah pamakaman tu -- lalu dimakan basugiro -- sanan bakato Magek Manandin, *Adiak kanduang si buruang Nuri -- barakaik mamintak pado Allah -- sehat lah raso badan hambo -- kok tidak pulo Adiak nan manolong -- antah lapuak jadi tanah.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+dicaliak: dicaliak,dicaliak,dicaliak
+hambo: ambo,ambo,jambo
+kanduang: kanduang,kanduang,canduang
+mamintak: mamintak,mamintak,mamintak
+nantun: nantun,nantun,lantun
+dimakan: dimakan,dimakan,simakan
+lah: lah,lah,lah
+pado: pado,pado,pado
+tidak: didak,didak,didak
+si: si,si,si
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

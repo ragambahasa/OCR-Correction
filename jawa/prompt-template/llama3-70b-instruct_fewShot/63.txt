@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+0... Kunthi, cah ayu _wanci candhik ala sliramu kabulet bebendu upama kembang wus kebanjur koncatan madu anggamu lungkrah layu, atimu tumlawung keblithuk pambujuke dewa kumlungkung kang thumis adigang adigung mringkus clingus wedi mega wedi mendhung
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+anggamu: manggam,panggam,panggam
+adigung: adigung,adigung,adigung
+lungkrah: lungkrah,lungkrah
+upama: upama,upama,upama
+wedi: wedi,wedi,wedi
+bebendu: bebendu,bebendu
+adigang: adigang,adigang
+atimu: atimu,tukan,timuk
+kebanjur: kebanjur,kebanjur,wis kadh
+madu: madu,suma
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

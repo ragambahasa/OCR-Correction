@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Puja pangastuti aturang titiang majeng ring Ida Sang Hyang Widhi santukan sangkaning sih pasuweecan Ida, buku puniki prasida medal tur mangkin wenten ring tengahing kauripan alit-alit Indonesia sane kakasihin.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+buku: buku,buku,buku
+ring: ring,ring,ring
+Hyang: Hyang,Hyang,Hyang
+kakasihin.: kakasihin
+alit-alit: alit-alit,alit-alit
+mangkin: mangkin,mangkin,mangkin
+aturang: aturang,aturang,aturang
+pangastuti: pangastuti,pangastuti,mangastuti
+Sang: Sang,Sang,Sang
+puniki: puniki,puniki,puniki
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

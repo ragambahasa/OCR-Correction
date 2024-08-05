@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Mandanga di kato nantun -- agak tacangang Pangulu Nagari -- kato sarupo batujuan -- ado mukasuik jo sangajo -- lalu batanyo juo nan jadi, 'Manolah Tuan rajo nan datang -- tipak di kami nan di nagari -- kok urang lalu lai dibao singgah -- kununlah pulo ado mukasuik jo sangajo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tipak: sipak,dipak,dipak
+kami: kami,kami,kami
+sangajo: sangajo,sangajo
+di: di,di,di
+Pangulu: Pangulu,Pangulu
+mukasuik: mukasuik,mukasuik
+juo: juo,juo
+agak: agak,agak,agak
+lai: lai,lai,lai
+pulo: pulo,pulo,pulo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

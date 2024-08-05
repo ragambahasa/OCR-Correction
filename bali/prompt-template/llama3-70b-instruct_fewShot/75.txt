@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Sang Putri bagia tur prasida kacunduk malih sareng Ajin Idane. Kadatuanne prasida mawali rahayu. Pamuputne | Bagus Caratan kasandingang teken Sang Putri miwah kaadegang ratu ring Kadatuane punika.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kacunduk: kacunduk,kacunduk,macunduk
+sareng: sareng,sareng,sareng
+rahayu.: rahayu,rahayu,rahayu
+bagia: bagia,bagia,bagia
+Putri: Putri,Putri,Putra
+mawali: mawale,kawali
+teken: teken,teken,teken
+Bagus: Bagus,Bagus,Bagus
+Sang: Sang,Sang,Sang
+kaadegang: kaadegang,kaadegang,kaadegang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

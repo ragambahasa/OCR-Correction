@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Pak Deden ngaturkeun tarima kasih. Urang nggeus bebersih laut. Runtah palastik eta teu bisa diolah. Bahaya kana lauk jeung hewan nu lain.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Urang: Urang,Urang,Urang
+laut.: laut,laut
+nu: nu,nu,nu
+hewan: rewan
+lain.: lain,ilain,ilain
+Deden: Dedek,Dedel,Keden
+tarima: tarima,tarima
+jeung: jeung,jeung,jeung
+Pak: Pak,Pak,Pak
+eta: eta,eta,eta
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

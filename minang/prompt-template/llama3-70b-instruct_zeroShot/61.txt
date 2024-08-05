@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Adolah pado suatu hari -- dicaliak dipandangi adiak kanduang alah gadang -- lah tibo patuik basuami -- lalu dicari malah mupakat -- iyo handak ka mancari rang sumando -- nan ka junjungan Puti nan Bungsu -- bakatolah Sutan Sari Alam kapado adiak nan baranam. Kini baitu malah dek kito -- lapehkanlah pandang hilia mudiak -- pandanglah dek Adiak surang-surang -- jiko lai nan katuju -- kito langsuangkan halek malah lai -- kito kawinkan adiak kito -- supayo nak lapeh hutang kito -- bapikia malah Adiak tigo hari.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

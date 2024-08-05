@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Basiaplah urang di nagari -- gadang ketek tuo jo mudo -- laki jo parampuan -- mangakok karajo masiang-masiang -- tigo hari lamonyo bakarajo -- tidak baranti siang dan malam-- alah sudah malah galanggang -- halek bamulai hanyo lai -- alah nikah sanan Magek Manandin -- dengan Puti Subang Bagelang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bakarajo: bakarajo,bakarajo,bakarajo
+alah: alah,alah,alah
+galanggang: galanggang,galanggang,galanggang
+mangakok: mangakok,mangakok
+nikah: nikah,nikah,nikah
+halek: alek,alek,kalek
+hanyo: tanyo,tanyo,manyo
+sudah: sudah,sudah,sudah
+tigo: tigo,tigo,tigo
+siang: siang,siang,siang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

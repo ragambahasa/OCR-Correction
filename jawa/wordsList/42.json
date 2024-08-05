@@ -1,0 +1,10 @@
+{"input": "SO", "output": "SO,SO,SO"}
+{"input": "penjahat", "output": "penjahat,2 penjah"}
+{"input": "Bagian", "output": "Bagian,Bagian,Bagian"}
+{"input": "anyar", "output": "anyar,anyar,anyar"}
+{"input": "saka", "output": "saka,saka,saka"}
+{"input": "Salah", "output": "Salah,Salah,Salah"}
+{"input": "Kamar", "output": "Kamar,Kamar,Kamar"}
+{"input": "figur", "output": "pigur,bajig,migur"}
+{"input": "yane.", "output": "genjo"}
+{"input": "li-", "output": "li-,ali"}

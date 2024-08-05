@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Takajuik Magek Manandin -- dicaliak hilia jo mudiak -- tidak ado urang nan tampak -- mancaliak inyo ka ateh kayu -- tam- paklah sikua buruang Nuri -- lalu bakato Magek Manandin, *Adiak kanduang si buruang Nuri -- ikolah jinihnyo parasaian hambo -- tolonglah bukak kabek nangko.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bakato: bakato,bakato,bakato
+urang: urang,urang,urang
+tam-: tam-,tam-,tam-
+kanduang: kanduang,kanduang,canduang
+ado: ado,ado,ado
+parasaian: parasaian,parasaian
+mancaliak: mancaliak,mancaliak,mancaliak
+nan: nan,nan,nan
+tidak: didak,didak,didak
+hambo: ambo,ambo,jambo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

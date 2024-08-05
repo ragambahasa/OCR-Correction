@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Man, apa geginane ane sedeng puponin yen bisa nyemak strum listrik kanti siuan watt, Kak Badung ?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Badung: Adung,Adung,Adung
+ane: ane,ane,ane
+strum: trump,matru
+sedeng: sedeng,sedeng,sedeng
+geginane: geginan
+yen: yen,yen,yen
+Kak: Kak,Kak,Kak
+puponin: puponin,puponin
+listrik: listrik,listrik,listrik
+nyemak: nyemak,nyemak,nyemak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

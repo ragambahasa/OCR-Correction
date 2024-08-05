@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Har naha ACndul bet uninga nembe Encid ngaluariceun gas Sangkilang Leu diSada sareng teu bau: _ EE, 2 Xs 7
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nembe: rembe,gembe,keyem
+Encid: Kelen,Parak
+teu: teu,teu,teu
+bet: bet,bet,bet
+naha: naha,naha,naha
+gas: gas,gas,gas
+Sangkilang: Mangkilang,Sangkilat
+Leu: Leu,Leu,Leu
+sareng: sareng,sareng,sareng
+Har: Har,Har,Har
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Dek famo bakalamoan -- habih hari babilang pakan -- habih pakan babilang bulan -- habih bulan babilang tahun -- alah gadang juo si Bujang Paman -- alah baumua sapuluah tahun. Adolah pado suatu hari -- bakato Mandeh Rubivah. Kini baitu malah dek Ang -- den sarahkan Ang pai mangaji -- lai ka suko Ang pai mangaji? *Manjawab si Bujang Paman. Kalau baitu kato Mandch -- nama nan elok kato Mandeh -- hambo turuik parentah Mandch.~
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kato: kato,kato,kato
+bakato: bakato,bakato,bakato
+babilang: tabilang
+dek: dek,dek,dek
+nama: nama,nama,nama
+Dek: Dek,Dek,Dek
+sapuluah: sapuluah,sapuluah,sapuluah
+malah: alah,alah,balah
+Paman: Paman,Paman,Paman
+bulan: bulan,bulan,dulan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

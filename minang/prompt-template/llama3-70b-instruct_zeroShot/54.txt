@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Tidaklah kaba dipanjangkan -- elok dikumpa naknyo singkek -- singkek sakadar ka paguno -- manau nan alah gadang juo -- sam- pailah pucuaknyo ka bawah -- sanan bakato si buruang Nuri, *Tuan kanduang Magek Manandin -- pintaklah doa pado Allah -- tapasah juo lah ka nagari -- kini baitu malah dek Tuan -- man- dakilah Tuan kini juo -- salamaik handaknyo Tuan mandaki.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,10 @@
+{"input": "Kol", "output": "Kol,Kol,Kol"}
+{"input": "pinter", "output": "pinter,pinter,pinter"}
+{"input": "iki", "output": "iki,iki,iki"}
+{"input": "nampa", "output": "nampa,nampa,nampa"}
+{"input": "bisa", "output": "bisa,bisa,bisa"}
+{"input": "sing", "output": "sing,sing,sing"}
+{"input": "suwara", "output": "suwara,suwara,suwara"}
+{"input": "watuk", "output": "watu,katuk,ana w"}
+{"input": "meja,", "output": "kemej,kompl"}
+{"input": "durung", "output": "durung,durung,durung"}

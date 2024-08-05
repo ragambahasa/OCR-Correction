@@ -1,0 +1,10 @@
+{"input": "tanah", "output": "tanah,tanah,tanah"}
+{"input": "merga", "output": "merga,merga,merga"}
+{"input": "ngasilake", "output": "ngasilak\u00e9,ngasilak\u00e9,kang ngas"}
+{"input": "bisane", "output": "kabisa,kabisa,sabisa"}
+{"input": "uga", "output": "uga,uga,uga"}
+{"input": "bisa", "output": "bisa,bisa,bisa"}
+{"input": "tiba", "output": "tiba,tiba,tiba"}
+{"input": "ing", "output": "ing,ing,ing"}
+{"input": "tansah", "output": "tansah,tansah,tansah"}
+{"input": "apa", "output": "apa,apa,apa"}

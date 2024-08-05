@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Tapi ayeuna istimewa jasa. Suasana desa lain ti biasana. Bapa teu indit ka laut. Aya tamu nu bade disambut. Tamu istimewa nyaeta Bulan Muharam. Loba kahadean tina bulan eta. Urang arek ngalaksanakeun upacara ruwat laut.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bade: bade,bade,bade
+arek: arek,arek,arek
+laut.: laut,laut
+ka: ka,ka,ka
+ruwat: geuwa,geuwa,geuwa
+Aya: Aya,Aya,Aya
+disambut.: disambut,disambut
+Urang: Urang,Urang,Urang
+teu: teu,teu,teu
+bulan: bulan,bulan,bulao
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

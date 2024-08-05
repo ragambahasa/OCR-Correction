@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Alah pai inyo -- manyabik rumpuik ka tanah banto -- baharu sakali mahelokan sabik lah luko tantang jari manih -- maklumlah kito tantang itu -- awak nan manjo sajak ketek -- sakali balun bakarajo barek -- alun paranah mangakok sabik sanan manangih Kambang Luari -- paruik alah taraso litak -- sanan takana di nan bana -- manangih sambia bapantun
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

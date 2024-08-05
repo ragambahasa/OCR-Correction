@@ -1,0 +1,13 @@
+Please correct the OCR output in Balinese language:
+Bapa suba dasa dina di Jakarta.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Bapa: Bapa,Bapa,Bapa
+suba: suba,suba,suba
+dasa: dasa,dasa,dasa
+dina: dina,dina,dina
+di: di,di,di
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

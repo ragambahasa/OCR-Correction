@@ -1,0 +1,8 @@
+{"input": "1", "output": "1,1,1"}
+{"input": "SA", "output": "SA,SA,SA"}
+{"input": "oman", "output": "oman,oman,oman"}
+{"input": "Rejeki", "output": "Rejeki,Rejeki"}
+{"input": "\\Warga", "output": "kUlawa,wArga ,wArgan"}
+{"input": "Sragen", "output": "Ngrage"}
+{"input": "ing", "output": "ing,ing,ing"}
+{"input": "Mangsa", "output": "Mangsa,Mangsa,Mangsa"}

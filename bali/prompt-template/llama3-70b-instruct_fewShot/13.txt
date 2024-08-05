@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Sapunapi Akrostik ring puisi Bali Anyar? Pangawi puisi anyar wenten taler sida ngaripta puisi akrostik, nglimbakang saking akronim kruna utawi tetuwek.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ring: ring,ring,ring
+Pangawi: Pangawi,Pangawi,Pangawi
+kruna: kruna,kruna,kruna
+anyar: anyar,anyar,anyar
+Anyar?: Anyar,Manyar,Panyar
+taler: taler,taler,laler
+wenten: enten,enten,enteng
+sida: sida,sida,sida
+Bali: Bali,Bali,Bali
+saking: saking,saking,aking
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

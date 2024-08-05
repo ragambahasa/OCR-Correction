@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Alah sahari inyo di sanan -- kununlah dek Mandeh Rubiyah -- lalu dibarikannyo pakaian sapatagak -- alah cukuik tigo hari inyo di sanan -- sanan bakato si Bujang Paman, Manolah Mandeh janyo hambo -- Mandeh tingga malah di rumah -- bialah hambo pai gubalo. Manjawab Mandeh Rubiyah, Kalau baitu kato Anak --
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sanan: sanan,sanan,sanan
+kato: kato,kato,kato
+si: si,si,si
+dek: dek,dek,dek
+rumah: rumah,rumah,rumah
+alah: alah,alah,alah
+malah: alah,alah,balah
+hambo: ambo,ambo,jambo
+inyo: inyo,inyo,inyo
+tingga: tingga,tingga,tingga
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

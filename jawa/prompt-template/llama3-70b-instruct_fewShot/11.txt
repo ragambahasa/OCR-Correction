@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Liwat gelar perkara setengah terbuka, Polri wis netepake Cagub petahana Ahok Basuki Tjahaja Purnama dadi tersangka. Kudune demo leren. Suprandene GNPF-MUI durung trima. Tanggal 2 Desember arep demo maneh, nuntut Ahok ditahan. Kapolri- Panglima TNI tumindak tegas, ora kena Jumatan ana ndalan, apa maneh demo mienceng tumuju makar.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+arep: arep,arep,arep
+Liwat: Liwat,Liwat,Liwat
+gelar: gelar,gelar,gelar
+Jumatan: Kumatan,Kumat-k
+tumuju: tumuju,tumuju,tumuju
+ora: ora,ora,ora
+makar.: makary,kutha 
+setengah: setengah,setengah,setengah
+nuntut: nuntut,nuntut,nuntut
+dadi: dadi,dadi,dadi
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

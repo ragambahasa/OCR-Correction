@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Neked di kedatuan ngenggalang ia ka tengah bale paruman. la matur ring Sang Prabu jagi mapitulung lakar nyegerang para krama ane kena grubug. Sang Prabu, Patih miwah Mantri sami tengkejut nyingakin ada caratan bisa ngomong.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kena: kena,kena,kena
+ia: ia,ia,ia
+tengkejut: tengkejut,tengkejut,tengkejut
+ane: ane,ane,ane
+Prabu: Prabu,Prabu,Praba
+para: para,para,para
+ada: ada,ada,ada
+Sang: Sang,Sang,Sang
+jagi: jagi,jagi,jagi
+caratan: caratan,caratan,caratan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

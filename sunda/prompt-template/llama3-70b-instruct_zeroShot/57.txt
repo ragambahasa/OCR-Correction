@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+sasatna, direjengan ku duaan, perjurit kekentong kapetengah Tipumbiah, Salim teu bisa budi. Dibejeng dideuheuskeun ka Paroja. .
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

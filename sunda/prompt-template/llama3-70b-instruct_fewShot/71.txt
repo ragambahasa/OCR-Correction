@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Ngalieuk deui ka tukang geus deukeut naker, bus deui ka nu bala; cilaka, lamun terus bae di nu lenglang mah. Jengjar deui kuring mengkol. Untung teu kadeuleueun ku nu ngudag. Saenya- enyana nu ngudag-ngudag ngarah teh gajah gegedugna, ari nu sejen-sejenna mah kawasna ngan nuturkeun eta.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+di: di,di,di
+kuring: puring,muring,curing
+ku: ku,ku,ku
+tukang: tukang,tukang,tukang
+gajah: ngaja,ngaja,ngaja
+mah: mah,mah,mah
+teu: teu,teu,teu
+ngarah: ngarah,ngarah,ngarah
+bus: bus,bus,bus
+deukeut: deukeut,deukeut,seukeut
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

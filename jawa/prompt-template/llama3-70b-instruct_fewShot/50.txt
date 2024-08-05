@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Bener kandhane Zuhairi Misrawi mau, kasus Ahok pancen wis keseret-seret adoh banget menyang laiadan politik, sing sisip sembire nuwuhake desintegrasi bangsa lan rusake NKRI kang wis dibangun 71 taun suwene. Apa seneng yen Indonesia sing ayem tentrem iku dadi rusak bosah-baseh kaya negara-negara ing Timur Tengah kana?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nuwuhake: muwuhake,nuwuhaké,nuwuhaké
+taun: taun,taun,taun
+politik,: géopolit,paham po,golongan
+sisip: sisih,sisih,sisih
+dadi: dadi,dadi,dadi
+tentrem: tentrem,tentrem,tentrem
+Bener: Bener,Bener,Bener
+Tengah: Tengah,Tengah,Tengah
+kana?: kanal,pakan,sakan
+Timur: Timur,Timur,Timur
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

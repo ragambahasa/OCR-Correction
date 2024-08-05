@@ -1,0 +1,12 @@
+Please correct the OCR output in Balinese language:
+! Sapahati matatu rahat jemanien barak mwah wilis
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+matatu: matatu,matatu,matata
+rahat: jarah,kerah,rahay
+barak: barak,barak,barak
+wilis: wilis,wilis,ilis
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

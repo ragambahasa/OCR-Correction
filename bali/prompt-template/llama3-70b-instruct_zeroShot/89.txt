@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Man, apa geginane ane sedeng puponin yen bisa nyemak strum listrik kanti siuan watt, Kak Badung ?
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

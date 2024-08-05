@@ -1,0 +1,10 @@
+{"input": "yen", "output": "yen,yen,yen"}
+{"input": "nasib-", "output": "nasib,nasibe,saknas"}
+{"input": "akeh", "output": "akeh,akeh,akeh"}
+{"input": "pisan", "output": "pisan,pisan,pisan"}
+{"input": "iki", "output": "iki,iki,iki"}
+{"input": "golek", "output": "golek,golek,ngole"}
+{"input": "watu", "output": "watu,watu,watu"}
+{"input": "bisa", "output": "bisa,bisa,bisa"}
+{"input": "apa-apa,", "output": "ng\u00e8lmu b"}
+{"input": "apik", "output": "apik,apik,apik"}

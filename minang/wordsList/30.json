@@ -1,0 +1,10 @@
+{"input": "samaso", "output": "mamaso,pamaso,mamaso"}
+{"input": "Lorong", "output": "Lorong,Lorong,Corong"}
+{"input": "ee", "output": "ee,ee,ee"}
+{"input": "di", "output": "di,di,di"}
+{"input": "urang", "output": "urang,urang,urang"}
+{"input": "pulo.", "output": "pulo,tamba"}
+{"input": "kakak-", "output": "kakak,kakak "}
+{"input": "Puti", "output": "Puti,Puti,Puti"}
+{"input": "Taberai", "output": "Taberan,Taberan"}
+{"input": "alah", "output": "alah,alah,alah"}

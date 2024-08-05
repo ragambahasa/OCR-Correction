@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Ari di kapilah Syekh Amir teu kitu, sabab kabeh pada wawuh. padanyaho. Nu jadi kapala dunungan sapopoe, mandor- besarna Simba jeung Moto geus pada nyaho, jadi andelan sarerea. Jeungna deui balad Syekh Amir mah rea nu mawa anak pamajikan, jaba jariah. Numatak dina peutingan mimiti ngarereb teh heneu- teun, jadi cara nu macangkrama wae, teu aringeteun kana pibahyaeun. Anu rimbitan ngariung jeung anak pamajikan, anu lengoh ngariung jeung sobat-sobat jeung kawawuhan. Jadi di
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

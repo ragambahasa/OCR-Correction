@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Rob jelema nyalampeurkeun, kageuingkeun tadi ku nu ngagero. Cekcok nu silih tanya, aya naon-aya naon. Simba teu loba carita, regeyeng bae bangke teh dipangku, dibawa ka sisi pager, gubrag dipangpengkeun ka luar.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kageuingkeun: ngageuingkeu
+teh: teh,teh,teh
+Simba: Limba,Mimba,Rimba
+ku: ku,ku,ku
+pager,: pager
+bangke: bangke,bangke,angken
+loba: loba,loba,loba
+silih: silih,silih,silih
+naon.: naon
+ngagero.: ngagero
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Negih nggih, tiang nvidaang mangkin mrika, jantos molas menit sinah tiang sampun napak drika. Dadongne, Men Lotok, ane jani Icang lakar luwas kumah Kak Badung, yen saget Nang Kacrut teka mayah pamelin pupuke tampi nyan nah. Keto pabesene Nang Lotok teken Men Lotok nglantas ia nyetater montor Cary-ne mawarna barak wayah ane biasane anggona muat-muat padi lan peralatan mesin pemantig padi.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nggih,: inggih,linggi,linggi
+Lotok,: Lotok,Lotok
+teka: teka,teka,teka
+barak: barak,barak,barak
+mangkin: mangkin,mangkin,mangkin
+Kak: Kak,Kak,Kak
+tampi: tampi,tampi,tampi
+napak: napak,napak,bapak
+Negih: Tegih,Mateg
+pamelin: gamelin,gamelin,gamelin
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

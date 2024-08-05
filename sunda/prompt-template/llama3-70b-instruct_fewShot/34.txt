@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Sanajan ajengan teu acan uninga, cek Syekh Khamis ka Syekh Amir, ,,disuhunkeun timbanganana, wireh di dieu pang- sepuhna, seueur luang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Sanajan: Sanajan,Sanajan
+teu: teu,teu,teu
+acan: acan,acan,acan
+uninga,: uninga,uninga,kuninga
+cek: cek,cek,cek
+ka: ka,ka,ka
+di: di,di,di
+pang-: pang-,kapap,pang
+seueur: seueur,seueur,leueur
+luang.: luang,piluan,piluan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

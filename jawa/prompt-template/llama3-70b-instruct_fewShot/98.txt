@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+7, Th, leek Poe ee a es ee , nor ong + WO Ayan hos Y rts C5) ys) | i . te. e > ae WH eo < v4) pi) . ae . an Mt . . &.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+>: >,>,>
+e: e,e,e
++: +,g
+Ayan: Ayan,Ayan,Ayan
+ong: ong,ong,ong
+hos: hos,hos,hos
+Mt: Mt,Mt,Mt
+WO: WO,WO,WO
+es: es,es,es
+.: .,.,.
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

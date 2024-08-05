@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Manangih Magek Manandin -- urang banyak mahirik juo -- alah tingga darah di batu -- tapakiak Magek Manandin -- hauih nan tidak tatangguangkan -- lalu bakato maso itu, ?Q Mamak Rajo Kuaso -- barilah baa hambo aia -- hauih nan tidak tatangguang- kan. Manjawab Rajo Kuaso, Lai taraso hauih jo lapa -- anto namuah mamaliang jawi.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Lai: Lai,Lai,Lai
+Manangih: Manangih,Manangih,Panangih
+lapa: lapa,lapa,lapa
+bakato: bakato,bakato,bakato
+urang: urang,urang,urang
+nan: nan,nan,nan
+tapakiak: tapakiak,tapakiak,bapakiak
+Rajo: Rajo,Rajo,Rajo
+namuah: manamu,panamu
+batu: batu,batu,batu
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

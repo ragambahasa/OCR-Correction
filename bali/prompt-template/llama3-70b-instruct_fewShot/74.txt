@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Krana pica toya utamane suba telah, | Bagus Caratan ngemasin mati. Sang Putri sedih ngatonang unduke ento. Nanging Ida tengkejut krana nyingakin awakne | Bagus Caratan ngendih pesu andus, raris magentos rupa dadi manusa tur idup malih.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tengkejut: tengkejut,tengkejut,tengkejut
+Sang: Sang,Sang,Sang
+ngatonang: ngatonang,ngatonang
+Ida: Ida,Ida,Ida
+tur: tur,tur,tur
+dadi: dadi,dadi,dadi
+manusa: manusa,manusa
+idup: idup,idup,idup
+suba: suba,suba,suba
+andus,: andus,pandus,mandus
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

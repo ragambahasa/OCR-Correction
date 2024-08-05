@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+yh, enyaan umi. Buya bade angkat sareng Syekh Khamis bin Abdullah, Syekh Muhammad, Thani, Masud, ibnu Ali numashur tea Umi, nu sok dicarioskeun ku Buya; Syekh Amran, Syekh Hamdan sareng seueur deui nu sanesna. Duka sabaraha urang. Barudakna, Isa, Abdullah, Masud deui. Wah resep Umi seueur batur.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

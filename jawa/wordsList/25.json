@@ -1,0 +1,5 @@
+{"input": "ae", "output": "ae,ae,ae"}
+{"input": ".", "output": ".,.,."}
+{"input": "Ngenalake", "output": "Ngenalak\u00e9"}
+{"input": "Wayang", "output": "Wayang,Wayang,Wayang"}
+{"input": "Babad", "output": "Babad,Babad,Babad"}

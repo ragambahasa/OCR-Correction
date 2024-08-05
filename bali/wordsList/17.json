@@ -1,0 +1,6 @@
+{"input": "T", "output": "T,T,T"}
+{"input": "Pelog", "output": "Belog,Pelok,Pelok"}
+{"input": "luas", "output": "luas,luas,luas"}
+{"input": "ba", "output": "ba,ba,ba"}
+{"input": "bekel", "output": "bekel,bekel,bekel"}
+{"input": "nasi.", "output": "nasi,nasib,anasi"}

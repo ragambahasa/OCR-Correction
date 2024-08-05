@@ -1,0 +1,13 @@
+Please correct the OCR output in Sundanese language:
+sasatna, direjengan ku duaan, perjurit kekentong kapetengah Tipumbiah, Salim teu bisa budi. Dibejeng dideuheuskeun ka Paroja. .
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ku: ku,ku,ku
+kekentong: kekentong,kekentong
+Salim: Lalim,Lalim,Malim
+teu: teu,teu,teu
+ka: ka,ka,ka
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

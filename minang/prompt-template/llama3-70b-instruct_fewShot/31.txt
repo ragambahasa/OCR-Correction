@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+eee NE NE eee OS eee eT eee ee Dek urang Puti Bungsu -- tidak tabado hibo hati -- rusuah bacampua jo risau -- aia mato iriang gumiriang -- raso ka luluah pasandian -- tabayang sanan bapak jo mandeh -- talinteh pitua mandeh kanduang
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tidak: didak,didak,didak
+urang: urang,urang,urang
+talinteh: talinteh,talinteh,malinteh
+Dek: Dek,Dek,Dek
+mato: mato,mato,mato
+bapak: bapak,bapak,bapak
+jo: jo,jo,jo
+sanan: sanan,sanan,sanan
+eT: eT,eT,eT
+risau: risau,risau,risau
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

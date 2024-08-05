@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Pok deui Syekh Khamis: ,,Reugreug arti kieu mah. Jago-jago urang teu kurang, balad nu geus puguh aya itung wae opat ratus jol di kuring 150, ti Syekh Hamdan ti Syeh Amran, ti Isa ibnu Salim, Muhammad bin Rasyid, anak Sulaiman deuih. Wah moal kurang ti 700. Beuki rempeg, beuki teteg. Luda Damha bade ngiring ngamodal cenah, ngan 10 pulang 15 dina sataun ka- hayangna.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+pulang: pulang,pulang,pulang
+anak: anak,anak,anak
+jol: jol,jol,jol
+Isa: Isa,Isa,Isa
+Pok: Pok,Pok,Pok
+aya: aya,aya,aya
+arti: arti,arti,arti
+Muhammad: Muhammad,Muhammad
+di: di,di,di
+Luda: Luda,Luda,Luda
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

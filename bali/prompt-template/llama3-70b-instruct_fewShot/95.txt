@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Miribne Nang Lotok suba kena pengaruh teken ortan kawisesane Pak Agus nyidayang nyemak strum kanti ribuan watt, inget Nang Lotok taen ada morta anak mati ulian masang penjor kena strum tegangan tinggi, nejani ada buka Pak Agus ngelah kawisesan nyidayang nyemak strum tegangan tinggi sinah suba kaliwat sakti jelmane tenenan.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sinah: sinah,sinah,jinah
+tinggi: inggih,inggik,linggi
+Agus: Agus,Agus,Agus
+buka: buka,buka,buka
+nyemak: nyemak,nyemak,nyemak
+ada: ada,ada,ada
+ortan: orta,orta,maort
+pengaruh: pengaruh,pengaruh,pengaruh
+sakti: sakti,sakti,bakti
+mati: mati,mati,mati
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

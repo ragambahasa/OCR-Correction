@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Harilah badarok patang hanyo lai -- alah bajalan si Bujang Paman -- kununlah Puti Reno Ali -- agak tapaku dibarando -- hati nan tidak namuah tanang -- angan-angan pulang baliak -- makan tidak minum pun tidak -- manangih inyo tangah malam -- manangih babuah pantun.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Paman: Paman,Paman,Paman
+angan-angan: angan-angan,angan-angan
+Bujang: Bujang,Bujang,Bujang
+malam: malam,malam,malam
+bajalan: bajalan,bajalan,bajalan
+makan: makan,makan,makan
+Ali: Ali,Ali,Ali
+manangih: manangih,manangih,panangih
+pun: pun,pun,pun
+alah: alah,alah,alah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

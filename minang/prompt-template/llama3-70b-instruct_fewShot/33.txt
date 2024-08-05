@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Alah sarantang pajalanan -- dek lamo lambek di jalan -- jauah basarang dakek juo -- labuah panjang baliku-liku -- hampia ka tibo hanyo lai -- iyo di ranah Sandiang Baka.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lai: lai,lai,lai
+labuah: labuah,labuah,labuah
+panjang: panjang,panjang,panjang
+lambek: lambek,lambek,lambek
+Baka.: Baka,Baka,Baka
+ka: ka,ka,ka
+dakek: dakek,dakek,dakek
+hampia: ampia,ampia,lampia
+Alah: Alah,Alah,Alah
+ranah: nanah,panah,panah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

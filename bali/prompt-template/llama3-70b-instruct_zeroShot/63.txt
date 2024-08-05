@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Sawai-wai | Bagus Caratan nulungin reramane magae di carik. la ngaba yeh ane seger anggon inema teken reramane. la nyemak yeh di bulakan ane ada di tukad gede di samping carike.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

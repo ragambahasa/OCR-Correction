@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Nee aa! yo Vt ! . Pados napa Bu?" Dias takon. Sulistyaningsih Mencureng, banjur clilengan kaya- kaya golek barang sing arep dituku. eee
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sing: sing,sing,sing
+yo: yo,yo,yo
+kaya-: kaya-,kaya-,kaya-
+!: !,!,p
+arep: arep,arep,arep
+barang: barang,barang,barang
+Pados: Padon
+napa: napa,bab 
+kaya: kaya,kaya,kaya
+banjur: banjur,banjur,banjur
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Yen golek watu ngene iki nasib- nasiban. Yen nasibe apik bisa oleh akeh nanging yen nasibe kurang apik bisa babar pisan ora oleh apa-apa, ujare Adi Sumarno.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+yen: yen,yen,yen
+nasib-: nasib,nasibe,saknas
+akeh: akeh,akeh,akeh
+pisan: pisan,pisan,pisan
+iki: iki,iki,iki
+golek: golek,golek,ngole
+watu: watu,watu,watu
+bisa: bisa,bisa,bisa
+apa-apa,: ngèlmu b
+apik: apik,apik,apik
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

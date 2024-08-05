@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+,Mangga, walonna bari lumpat bawaning atoh. Bus ka jero, nyampak Siti Aminah dina bangku keur emok, geus nyekel seureuh rek nyeupah. Salim, geus nyium leungeun jeung nyium tarang kitu petana nandakeun hormat jeung asih di Arab gek diuk gigireunana.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Sadang dek imam dengan khatib -- alah mandanga di kato nantun -- lalu dibaco katubah nikah -- ijab dijawek dek Rajo Aniayo -- kawin pun salasai maso itu -- iyo di muko saksi nan barampek. Sasudah baliau dikawinkan -- namun di malam samalam nantun halek mamintak pulang hanyo lai -- iyo ka rumah masiang-masiang. Alah tingga Rajo Aniayo -- alah sahari duo hari -- habih hari babilang pakan -- habih pakan babilang bulan -- alah sabulan pulo ka lamonyo.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

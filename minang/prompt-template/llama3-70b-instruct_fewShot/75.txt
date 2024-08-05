@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Mandanga kato Puti nan Bungsu -- sanan manjawab Rajo Aniayo -- dijawab jo kato kasa -- sarato hariak bulalangnyo -- hantam tibo tarajang pun lakek -- dilacuiknyo Puti nan Bungsu jo tungkek manau -- sanan menggaruang Puti nan Bungsu -- manangih maisak -- isak -- bunyi pantun babuah-buah
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nan: nan,nan,nan
+hantam: antam,antam,dianta
+manangih: manangih,manangih,panangih
+Rajo: Rajo,Rajo,Rajo
+pantun: pantun,pantun,lantun
+Puti: Puti,Puti,Puti
+lakek: lakek,lakek,lakek
+isak: isak,isak,isak
+Aniayo: Aniayo,Aniayo,Aniayo
+kato: kato,kato,kato
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

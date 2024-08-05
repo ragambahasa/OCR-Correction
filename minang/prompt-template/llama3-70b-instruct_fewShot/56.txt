@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kaba baraliah hanyo lai -- aliahnyo kapado Puti Subang Bage- lang -- alah lamo galanggang-rami -- inye nan tidak namuah kawin dari sahari ka sahari -- habih pakan babilang bulan -- habih bulan babilang tahun -- badan lah kuruih bagai pimpiang -- tidua baga- luang dalam kulambu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lah: lah,lah,lah
+habih: abih,abiha,baabi
+Puti: Puti,Puti,Puti
+tidua: tidua,tidua,tidua
+kapado: kapado,kapado,tapado
+lai: lai,lai,lai
+nan: nan,nan,nan
+namuah: manamu,panamu
+alah: alah,alah,alah
+Subang: Subang,Subang,Subang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Manyumpik badamak tidak kanailah anak ruku-ruku Baniniak bamamak tidak bagantuang di urang nan basuku Ayam kinantan putiah cotok disabung nak rang Padang Tarok Bagai gunung Bapak denai harok kini manjadi buah ratok
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+buah: buah,buah,buah
+rang: rang,rang,rang
+bagantuang: bagantuang,bagantuang,tagantuang
+ratok: ratok,ratok,ratok
+Tarok: Tarok,Tarok,Arok
+badamak: badama,badama,badamai
+Bagai: Bagak,Pagai,Bagaj
+tidak: didak,didak,didak
+Ayam: Ayam,Ayam,Ayam
+Bapak: Bapak,Bapak,Bapak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

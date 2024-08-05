@@ -1,0 +1,10 @@
+{"input": "anake", "output": "anak,manak,naker"}
+{"input": "maneh", "output": "panji"}
+{"input": "cekak,", "output": "cekak,cekaka,cekaka"}
+{"input": "OMONGE", "output": "OMONG,OMONG,MOMONG"}
+{"input": "mateni", "output": "mateng,mateng,mateng"}
+{"input": "lombok.", "output": "lombok"}
+{"input": "ndhuk", "output": "ndhuk,ndhuk,ndhuk"}
+{"input": "abang", "output": "abang,abang,abang"}
+{"input": "masya", "output": "masya,golon"}
+{"input": "dhiri.", "output": "aku dh,panyla,nylara"}

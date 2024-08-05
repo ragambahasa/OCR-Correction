@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Minangka pemimpin sing becik, paribasan kudu bisa niteni suwara watuk jan ambu kringete prajurite, awit pemimpin sing pinter ing suwalike meja, durung karuwan pinter ing lapangan. Mangkono pangucape Kol (Inf) Arris Syamsu, S.Ap, SH, piyayi sing nampa anugrah pangormatan Bintang Veteran Nasional iki .
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

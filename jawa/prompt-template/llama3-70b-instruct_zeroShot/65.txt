@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Adhik-adhik mesthine wis ngerti ta apa sing diarani awan Cumulonimbus? Tapi satemene apa ta awan utawa mega Cumulonimbus kuwi? Mega Cumulonimbus yakuwi mega kang wujude kaya kembang kol, warnane abu-abu peteng lan nggantung ing langit. Jeneng mega cumulonimbus iki dijupuk saka basa latin Cumulus kang tegese
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kok dialiah ujuang tali tali ka pangabek gamba antah takabek antah tidak banda urang kami bandakan Kok dialiah ujuang nyanyi nyanyi talereng bakeh kaba antah dapek antah moh tidak kaba dari urang nan dikabakan
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tidak: didak,didak,didak
+antah: antah,antah,antah
+ka: ka,ka,ka
+urang: urang,urang,urang
+talereng: kalereng,kalereng,balereng
+pangabek: pangabek,pangabek,pangabek
+gamba: gamba,gamba,gamba
+ujuang: ujuang,ujuang,ujuang
+kaba: kaba,kaba,kaba
+tali: tali,tali,tali
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

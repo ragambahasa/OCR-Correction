@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Teu nyana ku fises:. bet zurusuhan datang ka Kuikuru, hayang tereh paeh. Jeung naita rek perang rurusuhan kitu? Na teu nyaho adat di dieu? Rek enya mah hayang diadu, carita heula. Raja ieu bisi teu nyaho.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Rek: Rek,Rek,Rek
+Raja: Raja,Raja,Raja
+Jeung: Jeung,Jeung,Jeung
+nyana: nyana,nyana,nyana
+ku: ku,ku,ku
+bet: bet,bet,bet
+Teu: Teu,Teu,Teu
+nyaho.: nyaho,nyaho
+Na: Na,Na,Na
+di: di,di,di
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

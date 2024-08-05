@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Siapolah garan urang nan tasabuik -- nan basuriah bak sipasin -- nan babaun bak ambacang -- nan tacelak tampak jauah -- nan tabarombong tampak hampia -- urangnyo kayo suko dimakan -- pangasiah di anak dagang. Asalnya rajo sunduik -- rajo badiri sen- dirinyo -- bukanlah rajo dang babali -- iyolah di ranah Duo Baleh Koto. Nan di pinang linggayuran -- nan di karambia rimbun daun -- iyo di kampuang tajorok mudiak -- sananiah baliau menjadi
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Nan: Nan,Nan,Nan
+rajo: rajo,rajo,rajo
+iyo: iyo,iyo,iyo
+suko: suko,suko,suko
+badiri: badiri,badiri,badiri
+hampia: ampia,ampia,lampia
+bak: bak,bak,bak
+dang: dang,dang,dang
+dagang.: dagang,dagang,daganga
+garan: garan,garan,garan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

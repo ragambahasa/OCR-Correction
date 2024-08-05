@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Mani semengane Nang Lotok jam siane teka kumah Kak Badung nyadia lakar maguru ilmu listrik teken Pak Agus. Sawatara apanginangan ngantosang sagetang ada anak teka, pawakane bontag cepag, pajalane ngengkag, lengar sepitne ngerenyeb kena sinar ai, ento madan Pak Agus. Ditu lantas Kak Badung teken Nang Lotok malajah cara-carane nyemak strum listrik ane paling cenik-cenik malu ukuran nyang selae watt. Malajah nyemak strum bayarane mara nyumuin pitungatus seket tali rupiah. Diapin keto Nang Lotok tusing ja sebet mesuang pipis mapan dot pesan bisa nyemak strum tegangan tinggi, ane lakar dadi anggon ngubadin kaluargane yen prade ada ane ngelah panyungkan tuju wiadin penyakit ane len-lenan. Keto masi Kak Badung, diapin nelasang pipis kanti jutaan rupiah
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tusing: tusing,tusing,ratusi
+jutaan: yutaan
+nyadia: nyadia,nyadia,nyadin
+tegangan: antegang,betegang,entegang
+bisa: bisa,bisa,bisa
+teka,: teka,tekap,antek
+kumah: umah,lumah,lumah
+lakar: lakar,lakar,lakar
+ngantosang: ngantosang,ngantosang,antosang
+cenik-cenik: cenik-cenik,cenik-cenik,cenik-cenik
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

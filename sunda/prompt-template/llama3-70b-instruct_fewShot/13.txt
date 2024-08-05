@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Urang Arab mindel kabeh, silihreret, silihpelong, teu manggih piomongeun. Meunang sajongjongan paheneng-heneng pok Syekh Muhammad nanya ka Moto: ,,Kumaha kadeuleu kaayaan di jero dayeuh, Moto?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nanya: anyar,ganya,manya
+Moto?: Moto,Moto,Motor
+di: di,di,di
+ka: ka,ka,ka
+Meunang: Beunang,Beunang,Beunang
+teu: teu,teu,teu
+Moto:: Moto,Moto,Motor
+Arab: Arab,Arab,Arab
+Urang: Urang,Urang,Urang
+jero: jero,jero,jero
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Neked di Gook Lumbang, | Bagus Caratan lan | Raksasa masiat. la nyemprotang toya wisya ka awakne | Raksasa. | Raksasa glalang-gliling aduh-aduh krana kena toya wisya tur ngemasin mati.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Raksasa.: Raksasa
+kena: kena,kena,kena
+nyemprotang: nyemprotang,nyemprotang,semprotang
+Gook: Gook,Gook
+di: di,di,di
+Neked: Neked,Neked,Neked
+glalang-gliling: glalang-gliling,glalang-gliling
+krana: krana,krana,krana
+Lumbang,: Lumbang,Lumbanga,Lumbangi
+Bagus: Bagus,Bagus,Bagus
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

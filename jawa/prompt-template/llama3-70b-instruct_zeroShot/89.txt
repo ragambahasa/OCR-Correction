@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Rika mesthi ngerti sing Jenenge uyah. Jalaran uyah mujudaken kebutuhan uripe menungsa (lan kewan). Saben rumah tangga saben Adina pertu uyah. Ora mung nggo masak, ningen uga keperluan sejen, kelebu nggo pengobatan. Ningen apa nika kanca batir ngertl, negarane dhewek Indonensia sing nduweni garis pesisir paling dawa nang ndunya, sekiye egin kudu nekakaken uyah sekang negara liya. Mang-
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

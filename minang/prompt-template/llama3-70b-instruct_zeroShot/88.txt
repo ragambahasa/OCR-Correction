@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Harilah badarok patang hanyo lai -- alah bajalan si Bujang Paman -- kununlah Puti Reno Ali -- agak tapaku dibarando -- hati nan tidak namuah tanang -- angan-angan pulang baliak -- makan tidak minum pun tidak -- manangih inyo tangah malam -- manangih babuah pantun.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

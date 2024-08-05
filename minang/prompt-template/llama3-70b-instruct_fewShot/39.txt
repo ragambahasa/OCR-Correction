@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Lalu diracak malah kudo -- bajalanlah Magek Manandin -- tangan suwok mamacik tali kakang -- tangan kida mangapik ayam Biriang Balang -- alah sarantang pajalanan -- tunangannyo ma- nangih maso itu -- manangih bahibo-hibo -- bapantun inyo maso itu
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+maso: maso,maso,maso
+inyo: inyo,inyo,inyo
+diracak: diracak,diracak
+kida: kida,kida,kida
+nangih: nangih,nangih,manang
+pajalanan: pajalanan,mampajala,bajalanan
+alah: alah,alah,alah
+kudo: kudo,kudo,kudo
+manangih: manangih,manangih,panangih
+ayam: ayam,ayam,ayam
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

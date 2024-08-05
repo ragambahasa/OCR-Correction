@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Alah pai inyo -- manyabik rumpuik ka tanah banto -- baharu sakali mahelokan sabik lah luko tantang jari manih -- maklumlah kito tantang itu -- awak nan manjo sajak ketek -- sakali balun bakarajo barek -- alun paranah mangakok sabik sanan manangih Kambang Luari -- paruik alah taraso litak -- sanan takana di nan bana -- manangih sambia bapantun
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kito: kito,kito
+tantang: tantang,tantang,tantang
+paranah: paranam,diparan,saparan
+pai: pai,pai,pai
+ka: ka,ka,ka
+paruik: paruik,paruik,paruik
+barek: arek,arek,bareh
+takana: takana,takana,takana
+litak: litak,litak,litak
+banto: antok,banta,ganto
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

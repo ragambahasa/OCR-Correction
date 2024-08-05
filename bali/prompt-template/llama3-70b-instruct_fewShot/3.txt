@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Man, ada roko jarum? pitakene dabdab. "Ada beli, niki napi. saur i dagang banban.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ada: ada,ada,ada
+roko: roko,roko,roko
+dabdab.: dabdab,dabdab,dabdab
+beli,: beli,beli,beli
+niki: niki,niki,niki
+napi.: punap,punap,punap
+saur: saur,saur,saur
+i: i,i,i
+dagang: dagang,dagang,dagang
+banban.: banban,banbana,banbana
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Nang Lotok bengong mapangsegan negak ngelut entud palihatne nrawang sawa di durin pondokne. Carikne linggah pesan mara sajanalianga sekan mamula padi. Langite pelung kedas ngranang kalangen sakancanin jatmane ane ngiwasin sawireh pemandangane melah kadulurin ban angine ngasirsir. Di ambarane ambune putih kedas buka kapase pajlompot mapinda wayang lan beburonan. Kedis perit lan kedis bondole pasliwer marowang-rowangan pakeberne ngindang di duwur punyan padine ane suba kuning, sabilang jahan nyander ngenceg mapesta padi.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+mamula: mamula,mamula,mamule
+pesan: pesan,pesan,pesan
+angine: angin,dangin,nginem
+ngenceg: ngenceg,ngenceg,ngenceg
+bengong: bengong,bengong,bengong
+linggah: linggah,linggah,linggah
+nrawang: nrawang,nrawang,trawang
+padi.: padi,padik,padik
+pelung: pelung,pelung,pelun
+nyander: nyander,nyander,nyandet
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

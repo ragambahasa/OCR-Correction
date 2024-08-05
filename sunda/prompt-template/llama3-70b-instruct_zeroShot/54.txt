@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Peuting eta Salim pada muji. Simba teu repeh ngagulkeun. Bisana ngabedil jeung wawanenna dipuji rada diembohan. Ku Syekh Khamis Salim diperesen papakean sapangadeg. Nu sejen aya
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

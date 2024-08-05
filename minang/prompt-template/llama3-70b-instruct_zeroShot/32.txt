@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Sasudah sambahyang Magrib -- dibao naiak malah Sutan Rajo Ali -- sarato Dubalang nan barampek -- cukuik jo imam dengan khatib -- sarato pangulu jo handiko. Lah sudah makan dengan minum -- dibacokan doa salamat -- urang pun babaliak hanyo lai -- ka tampek kadiaman masiang-masiang.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

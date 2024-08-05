@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Malang nan tidak dapek ditulak -- mujua nan tidak dapek di- raiah -- alah malang nan tibo di diri Tuanku Rajo Mudo -- sarato Puti Rando Kayo -- jatuah sakik kaduonyo. Alah sahari duo hari inyo sakik -- lah sampai tujuah hari ka lamonyo -- sakik batambah lajak juo -- sanan manangih Puti Bungsu -- manangih sambia bapantun -- bapantun bahibo hati
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

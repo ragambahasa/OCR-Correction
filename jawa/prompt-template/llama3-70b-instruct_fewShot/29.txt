@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Jalaran aku wis janji yen mung bakal rabi siji. Dadi yen sliramu akon aku ngrabi Lejarati, ateges kudu misah... |
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+janji: janji,janji,janji
+wis: wis,wis,wis
+akon: akon,akon,akon
+Jalaran: Jalaran,Jalaran,Jalaran
+ngrabi: ngrabi,ngrabi,ngrabe
+yen: yen,yen,yen
+bakal: bakal,bakal,bakal
+rabi: rabi,rabi,rabi
+ateges: ateges,ateges,teges
+Dadi: Dadi,Dadi,Dadi
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

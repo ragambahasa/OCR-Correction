@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+*Usahlah lamo Tuan bajalan -- lakeh malah Tuan babaliak -- kito nangko bak anak balam -- sikua jantan sikua batino -- bapikia malah Tuan tantang itu, katonyo Puti nan Bungsu -- aia mato jatuah badarai -- bak maniak putuih talinyo -- bak intan putuih pangarang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+intan: intan,intan,intan
+kito: kito,kito
+jatuah: jatuah,jatuah,jatuah
+bajalan: bajalan,bajalan,bajalan
+balam: balam,balam,balam
+badarai: badarah,badarah
+jantan: jantan,jantan,jantan
+babaliak: babalian,tabaliak,disabali
+putuih: putuih,putuih,putuih
+bak: bak,bak,bak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

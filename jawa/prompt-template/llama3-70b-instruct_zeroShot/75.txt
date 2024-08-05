@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Badan Reserse Kriminai (Bareskrim) Mabes Polri bali nahan pimpinan Gerakan Fajar Nusantara {Gafatar) Ahmad Musadeq. Bareng karo Ahmad Musadegq, pulisi uga nahan Mahful Muis Tumanurung lan Andi Cahya. Telu-telune dinuga wis nindakake | kegiyatan ngina lan ngasorake agama. |
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

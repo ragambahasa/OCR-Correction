@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Lorong kapado Sutan Rajo Ali -- lalu dicaritokan pulo malah parasaian -- samanjak tapisah dari adiaknyo -- sampai batamu jo Puti Bungsu. Aluran di Dubalang nan barampek -- alah sanang hatinyo maso itu -- kununlah dek si Kambang Biduan Sati -- nasi alah tahedang jo juadahnyo -- sanan bakato sambia bapantun
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+parasaian: parasaian,parasaian
+lalu: lalu,lalu,lalu
+Aluran: Aluran,Aluran
+sanang: sanang,sanang,sanang
+alah: alah,alah,alah
+nan: nan,nan,nan
+kapado: kapado,kapado,tapado
+Sati: Sati,Sati,Sati
+batamu: batamu,batamu,batamu
+sanan: sanan,sanan,sanan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

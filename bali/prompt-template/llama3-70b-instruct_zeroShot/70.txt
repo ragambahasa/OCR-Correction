@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Neked di kedatuan ngenggalang ia ka tengah bale paruman. la matur ring Sang Prabu jagi mapitulung lakar nyegerang para krama ane kena grubug. Sang Prabu, Patih miwah Mantri sami tengkejut nyingakin ada caratan bisa ngomong.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

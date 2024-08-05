@@ -1,0 +1,10 @@
+{"input": "tering", "output": "gering,kering,kering"}
+{"input": "tangan", "output": "tangan,tangan,tangan"}
+{"input": "ing", "output": "ing,ing,ing"}
+{"input": "let-", "output": "let-,ngel"}
+{"input": "dagangan", "output": "dagangan,dagangan,dagangan"}
+{"input": "sijine", "output": "siji-s,jeneng,nyambu"}
+{"input": "tulisan", "output": "tulisan,tulisan,ng\u00e8lmu "}
+{"input": "Salah", "output": "Salah,Salah,Salah"}
+{"input": "medhia", "output": "medhit,medhit"}
+{"input": "utawa", "output": "utawa,utawa,utawa"}

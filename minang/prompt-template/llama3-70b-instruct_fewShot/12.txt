@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Manjawab Nangkodoh Baha, 'Tuan den Kambang Luari -- ikolah siriah nan sakapua -- ikolah timbakau nan saguluang -- makanlah siriah nangko - sarato mahisok rokok nan sabatang -- nak tantu pulo kito barundiang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+barundiang.: barundiang,marundianga,parundianga
+nan: nan,nan,nan
+'Tuan: tUan,bAatu,dIatu
+rokok: rokok,rokok,rokok
+siriah: siriah,siriah,siriah
+kito: kito,kito
+sarato: sarato,sarato,sarato
+-: -,-,-
+ikolah: kolah,sikola,sakola
+nangko: nangko,nangko,nangko
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

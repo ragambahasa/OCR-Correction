@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Mandanga kato nan bak kian -- lorong kapado Nangkodoh Baha -- lalu dicaliak tabuang nantun -- tampaklah sanan darah hiduik -- Allahu Rabi gadang hatinyo -- sajuak rasonyo paratian -- galak tabahak maso itu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Rabi: Rabi,Sara
+Mandanga: Mandanga,Mandanga,Mandanga
+paratian: paratian,paratian,aratian
+lalu: lalu,lalu,lalu
+galak: balak,palak,palak
+darah: darah,darah,darah
+kapado: kapado,kapado,tapado
+bak: bak,bak,bak
+sajuak: sajuak,sajuak,ajuak
+dicaliak: dicaliak,dicaliak,dicaliak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

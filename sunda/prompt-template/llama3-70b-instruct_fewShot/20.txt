@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+; fy oruntab a ~ Unggal poe ngumpulan runtah palastik. Pak Deden ngajual eta botol ka pabrik. Urang jeung babaturan mulungan runtah. Ambeh teu kadeuleu pabalatak.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Unggal: Unggal,Unggal,Unggal
+pabalatak.: pabalatak
+botol: botoh,botoh,potol
+Pak: Pak,Pak,Pak
+Ambeh: Ambek,Ambek,Ambek
+ka: ka,ka,ka
+mulungan: bilulung,sabilulu,sabilulu
+Urang: Urang,Urang,Urang
+a: a,a,a
+~: ~,~
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

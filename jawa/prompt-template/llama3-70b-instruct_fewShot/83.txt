@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+utawa Papua saiki, mujudake tlatah sing paling kekiwa. Ya bener ing kana wis ana pertambangan Freport, perusahaan AS sing kasil nguras bumi kas- kayane RI nganti mbesuk taun 2041. Nanging perusahaan asing mau mung golek untunge dhewe. Gelem mbangun Infrastruktur mung kanggo nglancarake transportasi usahane. Kanggo urusan wilayah Papua liyane, matur nuwun..... ; .
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nganti: nganti,nganti,nganti
+matur: atur,matu,batur
+tlatah: tlatah,tlatah,tlatah
+.: .,.,.
+ana: ana,ana,ana
+paling: paling,paling,paling
+;: ;,;,;
+taun: taun,taun,taun
+mbangun: mbangun,mbangun,mbangun
+kanggo: kanggo,kanggo,kanggo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

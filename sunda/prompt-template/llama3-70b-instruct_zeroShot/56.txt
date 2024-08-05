@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Moto: ,,Sareng Sang raja Mostana, ratu sinatria pinunjul, leber wawanenna. Dina ngapalaan perang semuna teu aya kagimir. Musuh ngangsegnarajang, jongjon ngadeg-ngagedengkeun rajaputra.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

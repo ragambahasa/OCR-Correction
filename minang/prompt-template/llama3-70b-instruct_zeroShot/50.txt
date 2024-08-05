@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Takajuik Magek Manandin -- dicaliak hilia jo mudiak -- tidak ado urang nan tampak -- mancaliak inyo ka ateh kayu -- tam- paklah sikua buruang Nuri -- lalu bakato Magek Manandin, *Adiak kanduang si buruang Nuri -- ikolah jinihnyo parasaian hambo -- tolonglah bukak kabek nangko.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Jawab nu ditanya: ,,Teu rea, ngan bisa mawa anak hiji, si Isa jeung abid 50, pakarangna cukup. Tah geuning matak reugreug. Bener Isa kudu sina milu, geus katembong gede wawanen eta budak teh ngala ka bapana. Kumaha ari Masud, rek mawa sabaraha, ki silah?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ka: ka,ka,ka
+sina: sina,sina,sina
+Bener: Bener,Bener,Bener
+milu,: milu,milu
+si: si,si,si
+rek: rek,rek,rek
+budak: budak,budak,budah
+Jawab: Jawar,Jawar
+anak: anak,anak,anak
+mawa: mawa,mawa
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

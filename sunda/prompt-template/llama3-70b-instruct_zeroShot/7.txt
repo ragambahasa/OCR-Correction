@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+18. Wangi ti batan kastori, ngelehkeun dupa Makasar, wa- ngi nanahaon bae, lain minyak, lain kembang, Jarah-Banun kakara, ngangseu seungit cara kitu, Rengganis enggeus di latar.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

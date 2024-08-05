@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+batok bubuk, kalapa beak baruhak jeung beulah, Jeungeun baloboran getihan kakadek, bedog rompang keuna kana batv. Ari laguna Salim nyisit, nya teu bisa, nya nu dipakena lain parantina, turug-turug nu disisitna teu daek cicing, ngan uyan-ayunan bae jeung paralat-purilit. Hese-hese oge kalah ku leukeun dikeureuyeuh, teu burung anggeus. Jeroanana teu diarah, geus diudulkeun teh diantep bae sina nambru dina taneuh.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nyisit,: nyisit,nyisit
+nu: nu,nu,nu
+keuna: keuna,keuna,keuna
+teu: teu,teu,teu
+rompang: sosompa,sosompa
+kana: kana,kana,kana
+geus: geus,geus,geus
+Jeungeun: Deungeun,Deungeun,Leungeun
+laguna: mandra
+ngan: ngan,ngan,ngan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+- Ulah bendu Sahib, da lain kuring nu ngaboyong, lain kuring nu nyieun abid, kuring mah henteu nyieun kutiplak urang Arab. Ngan nu dicaritakeun bieu sayaktosna. BS
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

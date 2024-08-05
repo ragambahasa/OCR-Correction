@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+.Heueuh. Jig geura sare, geus peuting. leu surat-surat keur ka sobat-sobat. surat-surat wasiat jeung surat-surat nu sejen sakur nu perlu diampihan, ku Buya diiangkeun isukan, rek nitahan jelema ka Zanzibar, supaya dipasrahkeun ka Panghulu. Ujang ulah salah nya mapay, kudu ka Panghulu. Pek ka itu geura sare.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Sedek dina anu | Bagus Caratan luas ka tukade lakar ngalih yeh di bulakan. Teked ditu yeh tukade gede. Krana baktine teken rerama, ia tusing ngitungang yeh tukad ane gede ento.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

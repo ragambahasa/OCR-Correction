@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+leu! tembal kuring. Gancangna kuring diriung ku nu nareangan tea, tuluy wae digandong ku nu bedas, dibawa kapang- rereban. Meunang dua puluh poe gering, teu bisa rumingkang. leu tea, tapak bedul dina tuur jadi bareuh. Allah-Allah, nyerina lain di kieuna. Eta keur ranyod tingnyaraut. nyerina nyedek kana angen. Sakapeung mah les wae teu inget. Kasalikur poena bisa leumpang, jiglug-jiglug kundang iteuk.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

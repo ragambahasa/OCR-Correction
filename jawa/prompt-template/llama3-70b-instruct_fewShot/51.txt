@@ -1,0 +1,13 @@
+Please correct the OCR output in Javanese language:
+Wayang Gagrag Pesisiran Lasem Digebyagake Bareng Wayang Purwa
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Wayang: Wayang,Wayang,Wayang
+Gagrag: Gagrak
+Lasem: Kasem,Kasem,Kasem
+Bareng: Bareng,Bareng,Bareng
+Purwa: Purwa,Purwa,Purwa
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

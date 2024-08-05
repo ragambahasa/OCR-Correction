@@ -1,0 +1,16 @@
+Please correct the OCR output in Sundanese language:
+Kumaha Carana Masarakat Tatar Sunda Ngigelan Kaayaan Pulitik Jaman kiwari ?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Kumaha: Kumaha,Kumaha,Kumaha
+Carana: Barana,Carang,Darana
+Masarakat: Masarakat,Masarakat
+Tatar: Tatar,Tatar,Tatar
+Sunda: Sunda,Sunda,Sunda
+Pulitik: Gulitik,Ngaguli
+Jaman: Jamak,Jamak,Jamak
+kiwari: kiwari,kiwari
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

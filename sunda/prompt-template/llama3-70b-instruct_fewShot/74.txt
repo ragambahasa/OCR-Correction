@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Ah, kumaha engke eta mah. Ari jelema teh cilaka ku lampahna, kojor ku omongna. Ayeuna urang ngan kari ngajaga omong, supaya salamet, hasil maksud. Keun perkara eta mah kumaha kuring.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+jelema: jelema,jelema,jelema
+maksud.: maksud
+Ayeuna: Kukura,Kukura,Kukura
+kojor: kojor,kojor
+kumaha: kumaha,kumaha,kumaha
+engke: engke,engke,engke
+supaya: supaya,supaya,supaya
+ngajaga: ngajagr
+Ari: Ari,Ari,Ari
+mah: mah,mah,mah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Tradisi karuhun ngandung kahadean. Alam kudu dijagaan jeung dilestarikeun. Ruwat laut aya supaya urang inget. Laut eta kudu dijaga meh aya mangpaatna.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+urang: urang,urang,urang
+aya: aya,aya,aya
+karuhun: karuhun,karuhun
+jeung: jeung,jeung,jeung
+Ruwat: Geuwa,Geuwa,Geuwa
+Alam: Alam,Alam,Alam
+eta: eta,eta,eta
+kudu: kudu,kudu,kudu
+supaya: supaya,supaya,supaya
+Laut: Laut,Laut,Laut
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

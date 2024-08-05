@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kalau dipandang pado kayonyo -- rumah gadang sambilan ruang -- rangkiangnyo tujuah di halaman -- kapuak ketek salo manyalo -- untuak makanan rang dagang lalu -- kabau jo jawi tidak tahetong -- tidak manaruah kakurangan -- bahati gadang tiok hari -- awak baduo sajo badunsanak.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kapuak: kapuak,kapuak,kapuak
+lalu: lalu,lalu,lalu
+kabau: kabau,kabau,kabau
+rumah: rumah,rumah,rumah
+ketek: ketek,ketek,ketek
+badunsanak.: badunsanak
+sajo: sajo,sajo,sajo
+salo: salo,salo,salo
+kakurangan: kakurangan,kakurangan
+awak: awak,awak,awak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

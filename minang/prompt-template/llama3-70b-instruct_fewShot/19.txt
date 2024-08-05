@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sanan manjawab Kambang Luari, Usahlah banyak-banyak kecek -- usahlah banyak-banyak rundiangan -- di siko sajolah Adiak denai bunuah -- ndak guno di rimbo gadang -- di sinan ka mati di siko ka mati juo -- kok hari alah barambang patang juo -- buliah nak lakeh denai babaliak -- iyo ka ranah Tanjuang Subaliak -- urang kok lah panek manantikan den. Mandanga kato nan bak kian -- lalu manjawab Puti Bungsu, Toh melah kito agak ka dalam rimbo gadang -- buliah nak suni dari urang nan lalu -- koknyo di siko denai Tuan bunuah -- kok tampak dek urang kam- puang -- tidaklah ka jadi mukasuik Tuan. Lalu bajalan juo samaso itu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+juo: juo,juo
+urang: urang,urang,urang
+babaliak: babalian,tabaliak,disabali
+nak: nak,nak,nak
+mukasuik: mukasuik,mukasuik
+kok: kok,kok,kok
+Tuan.: Tuan,Baatu,Diatu
+lakeh: lakeh,lakeh,lakeh
+Sanan: Sanan,Sanan,Sanan
+sajolah: sajolah,sajolah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

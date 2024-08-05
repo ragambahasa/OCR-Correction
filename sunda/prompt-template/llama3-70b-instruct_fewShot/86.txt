@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+39. Tangginas ngejat Rengganis, Rengganis bari nyarekan, behna mah ari nu beler, ocon teu aya waregna, teu kaop ditem- bongan, kersana ngan rek murugul, lamun diberean meunang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bongan,: kombong
+murugul,: murugul,murugul
+mah: mah,mah,mah
+bari: bari,bari,bari
+ocon: ocon,ocon,ocon
+rek: rek,rek,rek
+lamun: lamun,lamun,amung
+ari: ari,ari,ari
+teu: teu,teu,teu
+aya: aya,aya,aya
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

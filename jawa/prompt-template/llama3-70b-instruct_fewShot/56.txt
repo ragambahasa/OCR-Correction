@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+S ~ | AS obs AN RE, Yn: tsoy ONS eae se as aay ee he a 7 m Se . Ara ware e ie ty \ , bs os J : . 2 > . ~ > aS ee | [r at a is ay ee e an A 8 hh x * = 3 4 YZ, - . Ab om * UAL Meee ae Po ot af
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+x: x,x,x
+ot: ot,ot,ot
+Po: Po,Po,Po
+ay: ay,ay,ay
+S: S,S,S
+he: he,he,he
+ie: ie,ie,ie
+e: e,e,e
+.: .,.,.
+Ab: Ab,Ab,Ab
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

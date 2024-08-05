@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Lorong kapado Kambang Luari -- tidaklah ado nan diacuah- kannyo -- awaknyo basigap hanyo lai -- diambiak malah pisau maso itu -- lalu ditikamkannyo pisau ka hilia Puti Bungsu -- darah manyambua maso itu -- ditampuangnyo dengan gantang -- diam- biak malah kain panjang Puti Bungsu -- disaoknyo malah bangkai Puti Bungsu. Gadang hatinyo tidak tabado -- lalu bajalan hanyo lai -- iyo malah tidak ado manaruah hibo di hatinyo -- dek lah digaro syetan jo iblis.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+itu: itu,itu,itu
+iyo: iyo,iyo,iyo
+gantang: gantang,gantang,gantang
+nan: nan,nan,nan
+diambiak: diambiak,diambiak
+dek: dek,dek,dek
+bangkai: rangkai,rangkai,barangk
+digaro: digaru,digaru,digare
+manyambua: manyambua,manyambua,manyambua
+tabado: tabado,tabado
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

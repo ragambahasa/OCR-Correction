@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Manangih si buruang Nuri -- mandanga parasaian Magek Ma- nandin -- lalu bakato maso itu, *> Tuan hambo Magek Manandin -- Tuan tingga malah di siko -- kok lai umua samo panjang -- tajajak juo lah tanah tapi.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Manangih: Manangih,Manangih,Panangih
+siko: siko,siko,siko
+si: si,si,si
+lalu: lalu,lalu,lalu
+juo: juo,juo
+nandin: mandin,mandin,pandin
+lai: lai,lai,lai
+kok: kok,kok,kok
+malah: alah,alah,balah
+di: di,di,di
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,10 @@
+{"input": "panto.", "output": "panto,panto "}
+{"input": "Aman!", "output": "Daman,Daman,Maman"}
+{"input": "jelema", "output": "jelema,jelema,jelema"}
+{"input": "lila", "output": "lila,lila"}
+{"input": "ku", "output": "ku,ku,ku"}
+{"input": "ampun!", "output": "rampun,harung"}
+{"input": "hahaok", "output": "ngahao,ngahao"}
+{"input": "Teu", "output": "Teu,Teu,Teu"}
+{"input": "cul", "output": "cul,cul,cul"}
+{"input": "cek", "output": "cek,cek,cek"}

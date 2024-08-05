@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+salmipalkanlah pasahn. Sadang dek urang nan manggaleh -- pakirim nan sudah dibari -- kannyo -- lalu mamintak izin ka bajalan hanyo lai -- lalu turun ka halaman -- bajalanlah inyo maso itu -- lapeh nan dari kampuang Koto Anau.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kampuang: kampuang,kampuang,kampuang
+lapeh: lapeh,lapeh,lapeh
+ka: ka,ka,ka
+Anau.: Anau,Danau
+kannyo: kasuda
+lalu: lalu,lalu,lalu
+dari: dari,dari,dari
+urang: urang,urang,urang
+Sadang: Sadang,Sadang,Sadang
+turun: turun,turun,turun
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Mandanga kato nan bak kian -- tamanuang Puti Taruih Mato -- malimbak darah di dado -- badan bak raso bayang-bayang -- baka- to inyo maso itu, Adiak kanduang si buruang Nuri -- tolonglah dek Adiak sampai-sampai -- bao malah pasan hambo -- kok lai ta- jajak tanah tapi -- jalang juo hambo kamari.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+di: di,di,di
+nan: nan,nan,nan
+tamanuang: tamanuang,tamanuang,tamanuang
+lai: lai,lai,lai
+to: to,to,to
+kanduang: kanduang,kanduang,canduang
+jajak: jajak,jajak,ajak
+kato: kato,kato,kato
+Taruih: Taruih,Taruih,Taruih
+Mato: Mato,Mato,Mato
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

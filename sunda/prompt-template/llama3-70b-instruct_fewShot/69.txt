@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Mun ureng daek ye - hijt.Sora urang Sunda teh bakal Peorahan Bisa nang- TuKeun Saha nubaris mingpin \ eget. Cenah jay
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Saha: Saha,Saha,Saha
+Cenah: Genah,Genah,Peren
+-: -,-,-
+teh: teh,teh,teh
+bakal: kakal,babak,babak
+Mun: Mun,Mun,Mun
+mingpin: pingpin,pingpin,malingp
+Sunda: Sunda,Sunda,Sunda
+ureng: ureng,ureng,puren
+nang-: nang-,kunan,inang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

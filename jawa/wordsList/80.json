@@ -1,0 +1,5 @@
+{"input": "ANA", "output": "ANA,ANA,ANA"}
+{"input": "OMAH", "output": "OMAH,OMAH,OMAH"}
+{"input": "INC", "output": "INC,INC,INC"}
+{"input": "WIT-WITAN", "output": "WIT-WITAN,WIT-WITAN,WIT-WITAN"}
+{"input": "!", "output": "!,!,p"}

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+yh, enyaan umi. Buya bade angkat sareng Syekh Khamis bin Abdullah, Syekh Muhammad, Thani, Masud, ibnu Ali numashur tea Umi, nu sok dicarioskeun ku Buya; Syekh Amran, Syekh Hamdan sareng seueur deui nu sanesna. Duka sabaraha urang. Barudakna, Isa, Abdullah, Masud deui. Wah resep Umi seueur batur.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Umi: Umi,Umi,Umi
+seueur: seueur,seueur,leueur
+batur.: batur,teu pe
+angkat: angkat,angkat,angkat
+resep: resep,resep,resep
+sabaraha: sabaraha,sabaraha
+nu: nu,nu,nu
+ku: ku,ku,ku
+sok: sok,sok,sok
+bade: bade,bade,bade
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

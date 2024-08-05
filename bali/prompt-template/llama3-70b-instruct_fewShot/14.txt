@@ -1,0 +1,16 @@
+Please correct the OCR output in Balinese language:
+Raden Aryya nape // kang banban maatur ratu dayane parakang
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Raden: Adeng,Radeg,Baden
+nape: nape,nape,nape
+kang: kang,kang,kang
+banban: banban,banban,banban
+maatur: maatur,maatur,maatur
+ratu: ratu,ratu,ratu
+dayane: dayani,dayana,dayani
+parakang: parakang,parakang,parakan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

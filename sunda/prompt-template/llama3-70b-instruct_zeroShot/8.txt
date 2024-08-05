@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+15. Jeung sekar agung liwatan, reujeung sekar soring alis, jeung aya sekar kapitan, reujeung sekar pondoh cengkir, sekar panambang peksi, reujeung sekar wadya jamus, reujeung sekar angkatan, reujeung sekar jalma mantri, reujeung sekar parawan mati abela.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

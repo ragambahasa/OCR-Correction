@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Sawai-wai | Bagus Caratan nulungin reramane magae di carik. la ngaba yeh ane seger anggon inema teken reramane. la nyemak yeh di bulakan ane ada di tukad gede di samping carike.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+la: la,la,la
+nulungin: nulungin,nulungin,ulungin
+gede: gede,gede,gede
+yeh: yeh,yeh,yeh
+ane: ane,ane,ane
+carik.: carik,carika,carika
+Bagus: Bagus,Bagus,Bagus
+ngaba: ngaba,ngaba,ngaba
+tukad: tukad,tukad,tukar
+di: di,di,di
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

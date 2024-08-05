@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Aya hiji parahu husus anu eusina sasajen. Hulu kebo, tumpeng, buah, jeung kadaharan lainna. Parahu eta didorong ka tengah laut. Tanda syukur jeung kasalametan ka Gusti Allah.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ka: ka,ka,ka
+parahu: parahu,parahu,parahu
+Allah.: Masya 
+anu: anu,anu,anu
+tengah: tengah,tengah,tengah
+Hulu: Hulu,Hulu,Hulu
+laut.: laut,laut
+jeung: jeung,jeung,jeung
+hiji: hiji,hiji,hiji
+Aya: Aya,Aya,Aya
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

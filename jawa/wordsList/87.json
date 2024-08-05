@@ -1,0 +1,10 @@
+{"input": "A", "output": "A,A,A"}
+{"input": "ea", "output": "ea,ea,ea"}
+{"input": ".", "output": ".,.,."}
+{"input": "OT", "output": "OT,OT,OT"}
+{"input": "s", "output": "s,s,s"}
+{"input": "lon", "output": "lon,lon,lon"}
+{"input": "a)", "output": "a),t\u00e8"}
+{"input": "aan", "output": "aan,aan,aan"}
+{"input": "we", "output": "we,we,we"}
+{"input": "SENA:", "output": "SENAr,SENAm,WANI "}

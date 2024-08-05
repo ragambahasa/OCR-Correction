@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Ora anane transparansi kanthi ukuran lan pathokan kang cetha, dianggep dening maneka pihak, kadidene awaling lunture integritas lan moralitas sarta intelektuale hakim, kang uga dianggep kadidene awaling kehancurane jagad yudikatif. Mangka profesi hakim kudune diisi dening wong2 pilihan kang darbe moralitas dhuwur, saengga ora gampang kegodha dening kekuwasaan, bandha lan kenikmatan dhuniawi. Ing istilah Indonesia lumrahe disebut: tahta, harta dan wanita.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Ing: Ing,Ing,Ing
+pathokan: pathokan,pathokan,pathokan
+kudune: kuduné,kuduné,kuduné
+pihak,: diakon,pawèwè
+gampang: gampang,gampang,gampang
+Ora: Ora,Ora,Ora
+lan: lan,lan,lan
+diisi: diisi,diisi,uniné
+kenikmatan: kanikmatan
+yudikatif.: yudikatif
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

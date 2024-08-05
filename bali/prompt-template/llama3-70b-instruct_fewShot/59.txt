@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Carita anak alit sane doh saking arta brana nanging ring panguntatnyane prasida ngamolihang napi sane kaaptiang. Nenten wenten sane tan prasida karuruh yening iraga setata seleg malajah, teleb, tur mautsaha sane becik. Ngiring alit-alit mangda setata semangat. Wastu jaya anom yowananing Indonesia.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ngamolihang: ngamolihang,ngamolihang,ngamolihang
+jaya: jaya,jaya,jaya
+doh: doh,doh,doh
+Carita: Arita,Aritan,Aritan
+nanging: nanging,nanging
+teleb,: teleb,teleb,teleba
+alit-alit: alit-alit,alit-alit
+Nenten: Enten,Enten,Enteng
+malajah,: malajah,malajahi,malajaha
+yening: bening,gening,mageni
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

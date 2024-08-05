@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Meh wae aku misuh. Kok sajak nemen tenan anggone mojokake aku. Dupeh aku iki mung sawijining paraga, sawi- jining wayang, kok mung dikongken tansah manut marang dhalange? Aku ora cocog karo panemu sing ngono kuwi. Aku kepengin nyebal saka sakabehing aturan-aturan sing ana ing jagad pakeliran.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

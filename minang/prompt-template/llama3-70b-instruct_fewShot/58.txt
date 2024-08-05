@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sasudah makan jo minum -- bakato Subang Bagelang, Tuan kanduang Magek Manandin -- mamakai malah Tuan kini-kini -- Tuan ka pai ka galanggang. lalu dibarikan ameh urai limo kaco -- untuak ka taruah di galanggang -- sarato taji sabarumbuang -- lalu dibarikan ayam sikua.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ayam: ayam,ayam,ayam
+galanggang.: galanggang,galanggang
+bakato: bakato,bakato,bakato
+makan: makan,makan,makan
+sikua.: sikua
+urai: urai,urai,urai
+di: di,di,di
+Sasudah: Sasudah,Sasudah,Sasudah
+taji: taji,taji,taji
+lalu: lalu,lalu,lalu
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

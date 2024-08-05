@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Adhik-adhik mesthine wis ngerti ta apa sing diarani awan Cumulonimbus? Tapi satemene apa ta awan utawa mega Cumulonimbus kuwi? Mega Cumulonimbus yakuwi mega kang wujude kaya kembang kol, warnane abu-abu peteng lan nggantung ing langit. Jeneng mega cumulonimbus iki dijupuk saka basa latin Cumulus kang tegese
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+iki: iki,iki,iki
+satemene: satemené
+saka: saka,saka,saka
+awan: awan,awan,awan
+wis: wis,wis,wis
+nggantung: nggantung,nggantung,nggantung
+mesthine: mesthiné,mesthiné,samesthi
+apa: apa,apa,apa
+peteng: peteng,peteng,peteng
+kuwi?: kuwi,yakuw,yakuw
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

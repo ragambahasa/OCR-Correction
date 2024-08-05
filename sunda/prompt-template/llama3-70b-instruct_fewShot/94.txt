@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Beu Ujang, lain mokaha pepentaan teh eta. Tapi sakitu deui Ama rek sateka-teka, supaya bisa katedunan. Keun ku Ama engke dicaritakeun ka Paroja, ngan ari marentah mah Ama teu bisa. Barudak Arab nu opatan teh boyongan Paroja, jadi milikna. Sugan dibikeun, urang tukeuran saurangna ku awewe dua ti urang. Kumaha mun kitu, Ujang?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lain: lain,lain,lain
+ku: ku,ku,ku
+nu: nu,nu,nu
+kitu,: kitu,kituh,kituh
+ka: ka,ka,ka
+boyongan: sampoyon,sampoyon
+ngan: ngan,ngan,ngan
+dua: dua,dua,dua
+mah: mah,mah,mah
+Keun: Keun,Keun,Keun
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

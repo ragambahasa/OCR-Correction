@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Ka mana wae inditna sobat kuring Amir bin Usman, moal burung dituturkeun. Sing percaya, untung rugi kuring hayang babarengan jeung sarerea, teu hayang seubeuh sorangan. Ngan batur, kuring moal bisa mawa loba, wates dalapan puluh mah aya.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

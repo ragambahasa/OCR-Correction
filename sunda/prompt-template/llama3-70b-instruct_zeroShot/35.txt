@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Sapoe dua poe teu aya naon-naon. Ari cek kiranggoji (tuduh jalan), di Uhehe teu meunang lalawora sagala rupa, saincak-incak ulah tinggal ti ati-ati. Urang pribumi Uhehe adatna sok ngarah ka semah ti bongohna.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

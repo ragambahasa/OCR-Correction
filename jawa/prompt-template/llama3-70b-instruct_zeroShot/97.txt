@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+ROU the, Sigra Prabu Partawijaya ndhisiki nubruk Resi Sakutrem. Perange rame, padha dene trampil trengginas. Nanging saya suwe saya nyata ange! tumrap Prabu Partawijaya anggone nedya ngalahake Resi Sukutrem. Nyekel Resi Sakutrem iku, prasasat njaring angin. Yen cinandhak tansah mrucut, nu- bruk tansah den endhani. Saya suwe saya kuwalahan, temah Prabu Partawijaya ru- mangsa kasoran. Tan pantara suwe Resi
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

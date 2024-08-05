@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Gadang kerok pasa rang Tiku Lubuak Basuang balainyo Kamih Gadang harok hambo dahulu kini manjadi buah tangih
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Kamih: Kamih,Kamih,Kami
+manjadi: manjadi,manjadi,manjadi
+hambo: ambo,ambo,jambo
+kini: kini,kini,kini
+buah: buah,buah,buah
+rang: rang,rang,rang
+Lubuak: Lubuak,Lubuak,Gubuak
+pasa: pasa,pasa,pasa
+tangih: tangih,tangih,tangih
+Gadang: Gadang,Gadang,Gadang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

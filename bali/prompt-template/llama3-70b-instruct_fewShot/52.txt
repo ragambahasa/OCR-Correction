@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Puniki wantah utsaha saking Balai Bahasa Provinsi Bali nagingin kawentenan buku-buku sane kaanggen bahan bacaan literasi ring para janane, utamanyane ring jagat pendidikan. Ngwentenang buku anggen bahan bacaan wantah utsaha anggen nglimbakang iterasi. Ngwentenang bahan bacaan literasi sakadi satua mawiguna pisan anggen nincapang arsa ngwacen ring alit-alite miwah anggen numbuhang budi pekerti. Pinaka pahan utama anggen numbuhang karakter becik miwah pikayunan ngwaceen ring alit-alite patut kaupapira saking anom, punika kakawitin saking kulawarga, sekolah, kantos ring para janane. Pakarsan ngwacen sane akeh ring para janane, kasokong antuk kawentenan bahan bacaan sane becik miwah dangan kapolihang, pacang nincapang budaya ngwacen miwah nulis, inggin punika ring sekolah rauh ring para janane. Saking kawagedan antuk ngwacen puniki, iferasi dasar minakadi numerasi, sains, finansial, digital, miwah budaya prasida kaupapira tur kalimbakang. Metunyane buku puniki madue tetujon mangda dados piranti anggen ngukuhang miwah nyokong GLN Gerakan Literasi Nasional.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+anggen: anggen,anggen,anggen
+sekolah,: sekolah,masekola,sekolaha
+pahan: pahan,pahan,pahan
+ngukuhang: ngukuhang,ngukuhang
+Gerakan: Gerakan,Ngeraka
+jagat: jagat,jagat,jagat
+buku-buku: buku-buku,buku-buku,sabuku-bu
+punika: punika,punika,punika
+Saking: Saking,Saking,Aking
+nyokong: nyokong,nyokong,nyokong
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

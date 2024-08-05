@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+BUDAYA ringgit saha pedhalangan pang mujudaken budaya tilaran embah bu- yut kita ingkang adi luhung menika, kedah tansah kita lestantunaken, ngono ngendi- kane Bupati Temanggung kang diwakili de- ning Sunyoto, SKar Kabid ketenagaan Dinas Pendidikan dan Kebudayaan Kabupaten Te- manggung sajroning acara Siaran Langsung Panggung Budaya Wayang'ing RRI Purwo- kerto malem Ahad Pon Kanthi dhalang Ki Gunawan Purwoko (23 th) dhalang Te- manggung sing isih mahasiswa ISI Yogya semester akhir.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+yut: yut,yut,yut
+adi: adi,adi,adi
+ringgit: ringgit,ringgit,gringgi
+pedhalangan: padhalangan
+ngono: angon,angon,angon
+ning: ning,ning,ning
+bu-: bu-,nga
+manggung: canggung,tanggung,tanggung
+Pon: Pon,Pon,Pon
+BUDAYA: BUDAYA,BUDAYA,BUDAYA
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

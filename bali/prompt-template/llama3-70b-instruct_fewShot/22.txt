@@ -1,0 +1,15 @@
+Please correct the OCR output in Balinese language:
+Eekawin *Roamayana* melah pesan. Akch sabe seneng rine buku "ya- yaprana, *
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Eekawin: Kekawin,Makekaw
+melah: melah,melah,melah
+pesan.: pesan,pesan,empesa
+sabe: sabe,sabe,sabe
+seneng: seneng,seneng,beneng
+buku: buku,buku,buku
+*: *,*
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:
