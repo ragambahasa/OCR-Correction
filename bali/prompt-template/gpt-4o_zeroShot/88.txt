@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Anak iya ngaku uli Medan madan Pak Agus. Dugas dibi ia demonstrasi ngisiang strum roras tali watt, jag sing kenken ia. Miribne awakne misi dinamu totonan sangkala ya bisa ngenjit lampu neon di awakne nyak ngendih puk, bengong icang ngiwasin teken kesaktiane, yen idewek kena strum dasa teatt dogen suba kejeng-kejeng.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

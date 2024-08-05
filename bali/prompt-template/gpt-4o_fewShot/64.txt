@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Sedek dina anu | Bagus Caratan luas ka tukade lakar ngalih yeh di bulakan. Teked ditu yeh tukade gede. Krana baktine teken rerama, ia tusing ngitungang yeh tukad ane gede ento.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ka: ka,ka,ka
+rerama,: rerama,rerama,rerama
+gede.: gedeg,gedeg,geden
+ento.: ento,cento,gento
+ia: ia,ia,ia
+ngitungang: ngitungang,ngitungang,ngitungang
+gede: gede,gede,gede
+yeh: yeh,yeh,yeh
+tusing: tusing,tusing,ratusi
+teken: teken,teken,teken
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

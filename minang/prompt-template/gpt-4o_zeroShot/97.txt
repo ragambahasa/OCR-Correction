@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+tidak tabado -- dihampirinyo si Bujang Paman -- dicaliaknyo kaki si Bujang Paman -- kironyo tasapik di kayu gadang -- sanan marauang harimau nantun -- kapiang-kapiang kayu nantun -- dek kuatnyo harimau manguakkan -- lalu dijileknyo si Bujang Paman.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Bia panjapuik-japuik aia -- bia pancari-cari kayu -- jo suko hati hambo manuruik. Mandanga pantun Puti Bungsu -- galak tasa- nyum sutan Rajo Ali -- sanan bakato hanyo lai, Toh melah kito barangkek malah lai -- tidaklah guno kito lamo di siko.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

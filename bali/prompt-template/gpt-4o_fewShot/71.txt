@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Sang Prabu ngicenin ia nambanin anak ane kena grubug. la suba nawang pasti pica toya utama ento lakar telah ditu lan lakar ngemasin mati. Nanging ia tusing ngitungang unduke ento, dikenehne tuah apang bisa mapitulung. ,
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+telah: telah,telah,telah
+tusing: tusing,tusing,ratusi
+ia: ia,ia,ia
+tuah: tuah,tuah,tuah
+ditu: ditu,ditu
+lan: lan,lan,lan
+utama: utama,utama,utama
+suba: suba,suba,suba
+nawang: nawang,nawang,bawang
+nambanin: nambanin,nambanin,tambanin
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

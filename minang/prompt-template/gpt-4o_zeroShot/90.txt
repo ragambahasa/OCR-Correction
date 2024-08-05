@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Bakato Puti Reno Ali, O Tuan si Bujang Paman -- koknyo tidak namuah Tuan -- mamakai cincin nangko -- simpan malah di dalam kabek pinggang -- koknyo kurang pitih nantun -- iko duo ratuih lai -- nan pintak hati hambo -- Tuan bawo juolah cincin nangko -- kok leh ka ganti tangka jo azimat.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sasudah sambahyang Magrib -- dibao naiak malah Sutan Rajo Ali -- sarato Dubalang nan barampek -- cukuik jo imam dengan khatib -- sarato pangulu jo handiko. Lah sudah makan dengan minum -- dibacokan doa salamat -- urang pun babaliak hanyo lai -- ka tampek kadiaman masiang-masiang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+babaliak: babalian,tabaliak,disabali
+makan: makan,makan,makan
+doa: doa,doa,doa
+Rajo: Rajo,Rajo,Rajo
+nan: nan,nan,nan
+Ali: Ali,Ali,Ali
+Lah: Lah,Lah,Lah
+sudah: sudah,sudah,sudah
+malah: alah,alah,balah
+pangulu: pangulu,pangulu
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

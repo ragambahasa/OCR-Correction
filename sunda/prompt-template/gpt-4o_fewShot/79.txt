@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Simba muru ka nu dituduhkeun ku prajurit, gero tarik pisan: vleu! ieu! kapanggih! Rob pada nyalampeurkeun. Simba teu malire ka nu ngarogrog, geus ngagero tuluy ngucap sukur, pokna: Alhamdulillah, nuhun ya Rabbalalamin, dunungan abdi kapanggih deui.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+muru: muru,muru,muru
+tarik: tarik,tarik,tarik
+gero: gero,gero,gero
+nuhun: nuhun,nuhun,nuhun
+tuluy: tuluy,tuluy,tuluy
+malire: kamali,kamali,kamali
+teu: teu,teu,teu
+ngarogrog,: ngarogrog
+sukur,: sukur
+ku: ku,ku,ku
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

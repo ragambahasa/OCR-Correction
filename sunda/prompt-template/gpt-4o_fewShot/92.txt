@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Asruk-asruk di leuweung, nepi ka wanci asar, teu manggih tapak-tapakna acan. Na ari wanci asar ahir, geus rek tunggang gunung, ngadenge nu blagbligbleg-blagbligbleg ti ka anggangan. Pek diintip, masya Allah ieuh, gebeg reuwas arigen ratug. Gajah sagede-sagede nanahaon, rek ka walungan, tangtu rek nginum jeung ngadon guyang. Ari laleumpangna ku lempeng ka lebah kuring. Ari kuring atuh da ngahaja di dinya teh megat di tungtu- runan. Geuwat ngejat ti dinya, bus ka nu bala, ngalangsud asup
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Gajah: Ngaja,Ngaja,Ngaja
+dinya: linya,minya,burin
+nginum: nginum,nginum
+guyang.: guyang
+Ari: Ari,Ari,Ari
+reuwas: reuwas,reuwas,reuwas
+ngahaja: ngahaja,ngahaja
+jeung: jeung,jeung,jeung
+acan.: acan,tacan,macan
+megat: mega,megah,megar
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

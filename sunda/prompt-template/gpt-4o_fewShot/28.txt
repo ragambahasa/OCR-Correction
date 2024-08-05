@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Pemilihan raya nu diayakeun ku PKS ge sed saeutik ti dinya. Calon- calon presiden ti PKS sina dipilih ku kaderna di daerahna masing- masing. Alhasil pemilu leuleutikan, lah. Meureun engkena beubeuna- ngan sorana bakal dikumpulkeun, diitung sarta ahirna ditetepkeun nu unggulna.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+calon: calon,panca,alon
+Calon-: Pancal
+ngan: ngan,ngan,ngan
+sed: sed,sed,sed
+raya: raya,raya,raya
+sina: sina,sina,sina
+Meureun: Meureun,Meureun,Cileure
+bakal: kakal,babak,babak
+ge: ge,ge,ge
+masing.: masing,masing,masing
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+14. Kacaturkeun wadyana Raja Mukadam, nu diandelkeun jurit, lain pisan jalma, anu dijieun balad, rupa arca warni-warni, nu ngageugeuhna, Ki Patih Tapel-aji.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Ka mana wae inditna sobat kuring Amir bin Usman, moal burung dituturkeun. Sing percaya, untung rugi kuring hayang babarengan jeung sarerea, teu hayang seubeuh sorangan. Ngan batur, kuring moal bisa mawa loba, wates dalapan puluh mah aya.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kuring: puring,muring,curing
+untung: untung,untung,kuntun
+sorangan.: sorangan
+dalapan: ngalapa
+teu: teu,teu,teu
+Ka: Ka,Ka,Ka
+moal: moal,moal
+batur,: batur,teu pe
+jeung: jeung,jeung,jeung
+Ngan: Ngan,Ngan,Ngan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

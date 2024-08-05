@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Nanggap! tulisan ana LSW saka Bapak Imam Wahyono - Sidoarjo ing PS Nomer 48 tanggal 26 November 2016 kanthi irah-irahan Email Saka Jakarta Kurang Bermutu,..........
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+irah-irahan: irah-irahan,irah-irahan
+ana: ana,ana,ana
+Kurang: Kurang,Kurang,Kurang
+Bapak: Bapak,Bapak,Bapak
+kanthi: kanthi,kanthi,kanthi
+Jakarta: Sawijin
+tulisan: tulisan,tulisan,ngèlmu 
+Email: Gegol
+saka: saka,saka,saka
+ing: ing,ing,ing
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

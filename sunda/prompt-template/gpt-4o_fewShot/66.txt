@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+41. Parekan nu tunggu lawang, gancang asup unjukan ka Den Mantri, matur sarta semu gugup, aya utusan rama, Patih Maktal itu anu dipiutus, ngageuwat Raden Suwangsa, lungsur tina enggon linggih.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+enggon: enggon,renggo,lenggo
+tunggu: lunggu,munggu,tungga
+ka: ka,ka,ka
+itu: itu,itu,itu
+matur: matur,matur,matur
+Patih: Pati,Catih,Latih
+Den: Den,Den,Den
+tina: tina,tina,tina
+anu: anu,anu,anu
+Parekan: Cacarek,Cacarek
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

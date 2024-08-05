@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Salah sijine dagangan ing : pameran, hand let- tering utawa kreasi tulisan tangan ing medhia papan.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tering: gering,kering,kering
+tangan: tangan,tangan,tangan
+ing: ing,ing,ing
+let-: let-,ngel
+dagangan: dagangan,dagangan,dagangan
+sijine: siji-s,jeneng,nyambu
+tulisan: tulisan,tulisan,ngèlmu 
+Salah: Salah,Salah,Salah
+medhia: medhit,medhit
+utawa: utawa,utawa,utawa
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+- Ulah bendu Sahib, da lain kuring nu ngaboyong, lain kuring nu nyieun abid, kuring mah henteu nyieun kutiplak urang Arab. Ngan nu dicaritakeun bieu sayaktosna. BS
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kutiplak: kutiplak,kutiplak,kutiplak
+lain: lain,lain,lain
+henteu: henteu,henteu,henteu
+nyieun: nyieun,nyieun,nyieun
+bendu: bendu,bendu,bendu
+-: -,-,-
+Ulah: Ulah,Ulah,Ulah
+bieu: bieu,bieu,bieu
+mah: mah,mah,mah
+urang: urang,urang,urang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

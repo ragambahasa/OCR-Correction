@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Kulisi: ..Kaulanun sumuhun pariksa gusti, ieu ngadeuheus- keun palancongan duaan, kenging nangkep ti peupeuntasan. Numawi ditangkep margi dangdananana sareng barangbantunna benten sareng urang Urori, ngabohong teu kireum-kireum. Sadaya- daya nyembahkeun, kumaha pangersa gusti.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+teu: teu,teu,teu
+margi: margi,margi,marga
+ti: ti,ti,ti
+sareng: sareng,sareng,sareng
+Sadaya-: Sadaya
+kumaha: kumaha,kumaha,kumaha
+daya: daya,daya,daya
+sumuhun: sumuhun,sumuhun
+urang: urang,urang,urang
+pariksa: ngariks,ngariks
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

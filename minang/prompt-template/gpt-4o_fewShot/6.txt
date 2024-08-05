@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Haisgnv. Kato nan tidak bajawab lai -- tidaklah ado dayo upayo lai -- kok ubek alah bamacam-macam -- kok dukun alah banyak pulo -- tapi panyakik batambah lajaik juo -- banduanglah ratok samaso itu -- Allahu Rabbi nan ka tahu -- manangih manggaruang panjang -- maratok babuah pantun
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ratok: ratok,ratok,ratok
+panjang: panjang,panjang,panjang
+dukun: dukun,dukun,dukun
+tidak: didak,didak,didak
+ado: ado,ado,ado
+banyak: banyak,banyak,banyak
+itu: itu,itu,itu
+maratok: maratok,maratok,maratok
+nan: nan,nan,nan
+alah: alah,alah,alah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

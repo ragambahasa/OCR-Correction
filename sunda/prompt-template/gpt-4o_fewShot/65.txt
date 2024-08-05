@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Kumaha rasa mun tulus, mun pareng jeung titis tulis, ngawulaan putra raja, sarta jadi eusi bumi, daun pulus di- lulunan, kaso handapeun kilaki.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+eusi: eusi,eusi,eusi
+bumi,: mangk
+putra: camut,cambu
+tulis,: titis ,titis 
+mun: mun,mun,mun
+raja,: baraj,baraj,rajak
+pareng: pareng,pareng,sareng
+jadi: jadi,jadi
+pulus: bulus,lulus,mulus
+sarta: sarta,sarta,karta
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

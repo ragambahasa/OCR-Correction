@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Bataan ceeiaalteleea Saati: St meinen, ~ aa Terekel Salim naek kena kai, rak ngadon sare. Teu wanieun sare di handap, sieun disampeurkeun sato galak, didodoho eukeur sare.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sare.: saren,saren,saren
+~: ~,~
+di: di,di,di
+St: St,St,St
+Salim: Lalim,Lalim,Malim
+aa: aa,aa,aa
+eukeur: eukeur,eukeur,eukeur
+ngadon: ngadog,ngadog
+sato: sato,sato,sato
+sieun: sieun,sieun,jieun
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

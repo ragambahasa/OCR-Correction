@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Kasuwen-suwen Nang Lotok Cs. marasa kerud, mapan sabilang latihan setata gurune nagih pipis. Diapinke Kak Badung tusing keweh mapan ia anak sugih. Nang Lotok mara nyidang nyemak strum roras tali watt ngelaut suud mlajah, alasane tusing ngelah pipis. Apa buin Pak Agus setata nagih pipis pamelin lengis binsin. Sasubane Nang Lotok suud mlajah nyemak strum, Pak Agus biin ngeka-ngeka daya, kenken baan apang nyidayang nyuang pipisne Nang Lotok teken Kak Badung, mapan tusing nyak nugtugang mlajah nyemak strum listrik. Pak Agus suba kadung tuman malaksana corah, mula bakal tusing suud- suud ngeka daya kenken baan nguluk-nguluk anak, kenken baan apang nyidang mapikolih arta, keto masi mapan tumben maan murid loyar pesan mesuang pipis. Sawatara duang minggu Pak Agus sagetang biin ngenah kumah Kak Badung sambilanga makecah-kecah ngortang ibane bisa narik barang-barang sunia marupa kadutan, akik, permata mirah delima, lan sekancanin soca duwen anake di suniane. Kak Badung anak kabenengan demen teken barang-barang buka keto, beh jag nyantep sajan dot mlajah narik barang ane oranga teken Pak Agus.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+teken: teken,teken,teken
+di: di,di,di
+murid: murid,murid,murit
+bakal: bakal,bakal,bakal
+sugih.: sugih,kasugi
+narik: nari,nari,carik
+nyuang: nyuang,nyuang,nyuang
+anak: anak,anak,anak
+Lotok: Lotok,Lotok,Lotok
+lengis: lengis,lengis,lengis
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

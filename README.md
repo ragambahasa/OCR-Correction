@@ -64,13 +64,14 @@ This project provides a set of scripts to correct OCR output using few-shot or z
 1. `main.py`: 
     - command: 
     ```
-    python main.py -prompt_dir <prompt_directory> -output_dir <output_directory> -model_name <model_name>
+    python main.py -prompt_dir <prompt_directory> -model_name <model_name> -lang <lang> -few_shot <true/false>
     ``` 
     - arguments:
     ```
     -prompt_dir: Directory containing prompt text files.
-    -output_dir: Directory to save the OCR correction results.
     -model_name: Model name to use for OCR correction (e.g., meta/llama3-7b-instruct).
+    -lang: Language of the text to decide the output directory (sunda, jawa, minang, or bali).
+    -few_shot: True for few-shot, False for zero-shot prompting.
     ```
 
 2. `wordList_maker.py`:

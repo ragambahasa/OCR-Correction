@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+32. Eh Raden Maktal ayeuna, maneh kudu leumpang jeung para mantri, sarta kudu buru-buru, papagkeun Ki Suwangsa, jeung rayatna ulah aya anu kantun, pindahkeun ka jero pura, emban-emban para nyai.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+mantri,: sumantr
+anu: anu,anu,anu
+pura,: purag,purah,purah
+para: para,para,para
+kantun,: kantun,kantun
+Maktal: Samakt,Samakt
+leumpang: leumpang,leumpang,leumpang
+Ki: Ki,Ki,Ki
+Raden: Ngade,Ngade
+jero: jero,jero,jero
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

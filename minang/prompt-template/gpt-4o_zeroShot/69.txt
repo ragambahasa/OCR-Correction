@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+EEE BOE IE Sadang dek Angku Rajo Aniayo -- lalu dibaco surek nantun -- surek nan dari kak tuo jo kak tangah -- nan ketek iyolah Malin Duano -- isi surek mengabakan bahaso manggaleh lai baruntuang -- iko pakirim pitih anam puluah rupiah -- salam dan maaf dari kami -- nan bagala Sutan Sari Alam.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

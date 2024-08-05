@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Liu ane seger ulian | Bagus Caratan. Sang Prabu seneng raris malih nunas tulung nylametang Sang Putri ane _.. @ngkebanga teken | Raksasa. | Bagus Caratan sadia, raris majalan ka tongosne | Raksasa di Gook Lumbang. aa
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ka: ka,ka,ka
+Liu: Liu,Liu,Liu
+nylametang: nylametang,nylametang,slametang
+seger: seger,seger,plege
+ulian: lian,liang,tulia
+Sang: Sang,Sang,Sang
+di: di,di,di
+teken: teken,teken,teken
+Prabu: Prabu,Prabu,Praba
+sadia,: sadia,sadia,sadia
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

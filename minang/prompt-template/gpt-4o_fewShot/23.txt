@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+as Adolah saurang rajo -- nan banamo Sutan Rajo Ali -- baduo dengan adiak kanduangnyo -- nan banamo Sutan Rajo Bujang -- urang ranah tanah Pakapuran -- nan di lereng Gunuang Tim- bulun. Kan inyo pai baburu kijang -- lah sasek di dalam rimbo -- lah tapisah inyo baduo -- lah bacarai inyo maso itu. Tt mennnr Laman Qastenem Rest nm Al? Ps ee ee ee ee
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+di: di,di,di
+dalam: dalam,dalam,dalam
+Bujang: Bujang,Bujang,Bujang
+tanah: tanah,tanah,tanah
+rajo: rajo,rajo,rajo
+urang: urang,urang,urang
+tapisah: tapisah,tapisah,tapisah
+Gunuang: Gunuang,Gunuang,Gunuang
+lah: lah,lah,lah
+maso: maso,maso,maso
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

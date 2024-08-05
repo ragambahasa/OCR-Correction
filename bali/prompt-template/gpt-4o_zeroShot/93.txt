@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Ilmu to anak mula mael, Nang Lotok, yen suba iraga bisa mubad-ubadan nganggon serana strum listrik, kan melah pesan, mapan aluh ngalih listrik. keto pasautne Kak Badung sambilanga magageblusan ngroko. Nang Lotok mapineh-pineh di korsine empuk sambilanga mengkhayal Beh, melah ulesne tenenan yen prade idewek bisa ngubadin anak sakit rematik nganggon strum listrik, sinah anake bengong ngajinang idewek,
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

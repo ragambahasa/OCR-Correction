@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Waah mas, mandheg mriki mawon. Tas kula kantun wonten griya, bu Daris nguwuh marang mas kemet. Isih kober nakoni bu Daris Lho, niki pripun? Wangsulane bu Daris: Niki wau kula klentu mbeta, sing kula beta biyasane tas tangan, niki wau Kok klentu Radio sing lagi disetel bojo kula. Krungu wangsulane bu Daris mau, mas kernet ora nesu, malah ngguyu nggleges, semono uga para penumpang sing ana njero angkot.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bu: bu,bu,bu
+biyasane: biyasané,kabiyasa
+penumpang: penumpang,penumpang,penumpang
+uga: uga,uga,uga
+Tas: Tas,Tas,Tas
+Daris: Baris,Garis,Baris
+sing: sing,sing,sing
+lagi: lagi,lagi,lagi
+njero: njero,njero,njero
+malah: malah,malah,malah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

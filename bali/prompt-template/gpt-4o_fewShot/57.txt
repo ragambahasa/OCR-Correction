@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Ring buku puniki nyaritayang kawentenan anak alit saking Bali sane uripnyane setata lara, doh saking kawentenan arta brana napi malih kawentenan Bali sane kasengguh pulo sorga punika.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+punika.: punika,sapunik,sapunik
+lara,: lara,lara,lara
+pulo: pulo,pulo
+alit: alit,alit,alit
+brana: brana,brana,brana
+buku: buku,buku,buku
+Bali: Bali,Bali,Bali
+anak: anak,anak,anak
+malih: malih,malih,malih
+puniki: puniki,puniki,puniki
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

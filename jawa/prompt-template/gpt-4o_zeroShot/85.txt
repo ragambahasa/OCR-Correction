@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+* eta 2 ie e133 pM | e d . rat g Dig : ; oea-'; eS . rn eo Lone So ns
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

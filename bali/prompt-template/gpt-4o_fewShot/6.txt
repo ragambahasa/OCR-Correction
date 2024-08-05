@@ -1,0 +1,13 @@
+Please correct the OCR output in Balinese language:
+padagingan atur fityang i ratu aturin tityang mamargegt adyapin tyang manungkul
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+atur: atur,atur,atur
+i: i,i,i
+ratu: ratu,ratu,ratu
+aturin: aturin,aturin,aturin
+tyang: ayang,ayang,ayang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

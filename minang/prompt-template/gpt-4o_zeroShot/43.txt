@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Kini baitu malah dek ang -- tidak suko kami mambari lai -- elok bajalan Buyuang kini juo -- kami tak suko mambao tompang. Ba- jalan Magek Manandin -- hari lah laruik tangah malam -- aia mato badarai-darai -- buni tangih mahisak-hisak -- bansaik nan tidak tatangguangkan -- sabab dek main judi juo.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

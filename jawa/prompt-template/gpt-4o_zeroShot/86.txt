@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Katon semarak lan endah wektu Parade Moomba kang spektakuler mau, diajab bisa lumaku aman sarta tertib. Kabeh mau disranani petugas keamanan kang terus nindakake patroli, andharane Maria karo nqguyu seneng. Semono uga nona Jenny Barret uga nimbrung, Victoria is a big city which is has many facilities, (Victoria mujudake jantung pusat kota kang nduweni papan-papan kang endah).
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

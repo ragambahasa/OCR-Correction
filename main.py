@@ -30,14 +30,23 @@ def load_examples(json_path):
 def main():
     parser = argparse.ArgumentParser(description="Get few shot or zero shot result.")
     parser.add_argument("-prompt_dir", type=str, required=True, help="Prompt directory")
-    parser.add_argument("-output_dir", type=str, required=True, help="Folder to output the result")
     parser.add_argument("-model_name", type=str, required=True, help="Model name to use for OCR Correction")
+    parser.add_argument("-lang", type=str, required=True, help="sunda, jawa, minang, or bali")
+    parser.add_argument("-few_shot", type=str, required=True, help="True for few-shot, False for zero-shot prompting")
     
     args = parser.parse_args()
 
+    allowed_languages = ["sunda", "jawa", "minang", "bali"]
+    if args.lang not in allowed_languages:
+        raise ValueError(f"Invalid language: {args.lang}. Must be one of {', '.join(allowed_languages)}")
+
+    few_shot = args.few_shot.lower() == 'true'
+    shot_type = "fewShot" if few_shot else "zeroShot"
+
     input_directory = args.prompt_dir
-    output_directory = args.output_dir
     model_name = args.model_name
+    model_name_part = args.model_name.split('/')[-1]
+    output_directory = f"{args.lang}/post-ocr-correction/{model_name_part}_{shot_type}"
 
     os.makedirs(output_directory, exist_ok=True)
 

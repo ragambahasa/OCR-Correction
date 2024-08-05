@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Bapak kanduang kan lah tahu juo -- kok lai bana denai bakakak laki-laki -- nan banamo Kambang Luari -- gadangnyo nan bak birah di tapi lasuang -- akalnyo kurang pandapek balun -- kok badannyo iyolah gadang -- tapi tak dapek tampek batenggang -- sabab samaso dahulunyo -- kakak nan sangaik Bapak manjokan -- gadangnyo tabao di ruwehnyo sajo -- tidak nyo tahu di ranggeh nan ka malantiang -- tidaknyo tahu di duri nan ka mancucuak -- inyo bahati gadang satiok hari -- di mano galanggang nan rami di mano sorak nan banyak -- inyo lah ado nan di sanan -- sabuang jo judi karajonyo. Koknyo adiak kanduang hambo -- nan banamo Cindai Taberai -- sadangnyo ketek baru kini -- sadang baumua limo tahun -- tidaklah dapek lawan baiyo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sabuang: sabuang,sabuang,sabuang
+samaso: mamaso,pamaso,mamaso
+kakak: kakak,kakak,kakak
+duri: duri,duri,duri
+jo: jo,jo,jo
+sanan: sanan,sanan,sanan
+malantiang: malantiang,malantiang,malantiang
+lai: lai,lai,lai
+adiak: adiak,adiak,adiak
+batenggang: dipatengga,mampatengg,tenggang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

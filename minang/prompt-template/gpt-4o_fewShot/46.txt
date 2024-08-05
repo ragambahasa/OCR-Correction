@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kununlah pulo Puti Subang Bagelang -- tunangan dek Magek Manandin -- hati nan tidak namuah sanang -- darah di dado ba- dabok-dabok -- apo ka dayo badan awak -- tidak dapek tampek batenggang -- rusuah jo apo ka dipujuak -- manangih babuah pan- tun
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+pulo: pulo,pulo,pulo
+sanang: sanang,sanang,sanang
+dek: dek,dek,dek
+manangih: manangih,manangih,panangih
+tunangan: tunangan,tunangan,tunangan
+jo: jo,jo,jo
+ka: ka,ka,ka
+namuah: manamu,panamu
+tidak: didak,didak,didak
+tampek: tampek,tampek,tampel
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

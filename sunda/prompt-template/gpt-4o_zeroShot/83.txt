@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Raos kagunturan madu, kaurugan menyan putih, di- banding ku putra raja, henteu werat males asih, reremekan panjang putra, kasepna kantun dumeling.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

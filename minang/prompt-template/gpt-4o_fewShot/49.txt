@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Bapikia malah Mamak tantang itu -- usah tangguang-tangguang mangacak dunia -- usah dialang kapalangi -- usah manjadi cacek kamudian -- tidak di agak dipikiri -- tangguang-tangguang buluah saruweh -- samo namuah mangko manjadi -- cubolah hiduik bacacah -- jangek -- rangkuah ka badan diri Mamak -- buliah nak tahu di masin garam -- buliah nak jaleh di padeh lado -- usah nan ka elok -- dek mamak surang sajo
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kapalangi: kapalang,bapalangi,tapalangi
+garam: garam,garam,garam
+di: di,di,di
+Mamak: Mamak,Mamak,Mamak
+buliah: buliah,buliah,buliah
+dunia: dunia,dunia,bunia
+itu: itu,itu,itu
+nak: nak,nak,nak
+padeh: padeh,padeh,padeh
+rangkuah: rangkuah,rangkuah,rangkuah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

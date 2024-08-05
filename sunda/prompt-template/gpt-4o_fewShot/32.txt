@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Aman! aman! cek prajurit Warori, ampun! ampun! maksudna, cul pakarang, ngacungkeun leungcun, tanda_ taluk. .,Lawang! lawang! cek Kisesa, hahaok bari nunjuk ku pedang. Bereyek deui jelema ka panto. Teu lila geus rujad, blang lawang, ka karaton ngemplong, Mostana teu reureuh mentang,
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+panto.: panto,panto 
+Aman!: Daman,Daman,Maman
+jelema: jelema,jelema,jelema
+lila: lila,lila
+ku: ku,ku,ku
+ampun!: rampun,harung
+hahaok: ngahao,ngahao
+Teu: Teu,Teu,Teu
+cul: cul,cul,cul
+cek: cek,cek,cek
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

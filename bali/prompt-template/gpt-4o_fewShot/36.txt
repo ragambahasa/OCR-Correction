@@ -1,0 +1,15 @@
+Please correct the OCR output in Balinese language:
+miwah I Sanjya ngragani suba matulak tkede di nagari
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+miwah: miwah,miwah,miwal
+I: I,I,I
+suba: suba,suba,suba
+matulak: matulak,matulak,matulad
+tkede: kedeh,kedel,kedem
+di: di,di,di
+nagari: kagari,magari,magari
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+batok bubuk, kalapa beak baruhak jeung beulah, Jeungeun baloboran getihan kakadek, bedog rompang keuna kana batv. Ari laguna Salim nyisit, nya teu bisa, nya nu dipakena lain parantina, turug-turug nu disisitna teu daek cicing, ngan uyan-ayunan bae jeung paralat-purilit. Hese-hese oge kalah ku leukeun dikeureuyeuh, teu burung anggeus. Jeroanana teu diarah, geus diudulkeun teh diantep bae sina nambru dina taneuh.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

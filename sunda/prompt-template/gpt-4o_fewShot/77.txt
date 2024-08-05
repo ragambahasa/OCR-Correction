@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Gobang geus disoren, bedi] disorendang deui, Salim ngadigdig nyamperukeun bapana. Clak kana onta, tuluy nuturkeun bapana, teu ngomong-ngomong nepi ka kapilah eureun di sisi walungan, ngaranna Kingani. Ari jut tina onta, ari segruk ceurik. Syekh Amir nyampeurkeun, pek ngusapan sirah Salim, pok nanya: ,,Na make ceurik? Kaduhung milu?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nepi: nepi,nepi,nepi
+Salim: Lalim,Lalim,Malim
+sirah: sirah,sirah,mirah
+ceurik.: ceurik
+tuluy: tuluy,tuluy,tuluy
+pok: pok,pok,pok
+ka: ka,ka,ka
+tina: tina,tina,tina
+Clak: Clak,Clak,Clak
+onta,: onta,konta,konta
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

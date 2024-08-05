@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Tidakkoh Angku tahu di salah bana -- sapatuiknyo Angku datang mamujuak kami -- kok tangih patuik Angku hantokkan -- tapi tidaklah ado nan bak nantun dek Angku -- babaliak pulang- lah Angku dahulu -- pailah Angku baraja baso jo basi. Kalau sarupo Angku nangko -- bialah hambo marando saumua hiduik -- pado balaki jo urang indak tahu di sopan santun.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+bana: bana,bana,bana
+patuik: patuik,patuik,katuik
+jo: jo,jo,jo
+nan: nan,nan,nan
+salah: salah,salah,salah
+lah: lah,lah,lah
+saumua: saumua,saumua,baumua
+indak: indak,indak,indak
+sarupo: sarupo,sarupo,sarupo
+marando: marando,marando,barando
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

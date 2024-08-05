@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Oe Baitu banalah -- busuak parangainyo Rajo Aniayo -- tidak hutang dipajadi hutang -- hatinyo dangki -- dek karano ipanyo alah kayo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Baitu: Baitu,Baitu,Baita
+busuak: busuak,busuak,busuak
+karano: karano,karano,karano
+Aniayo: Aniayo,Aniayo,Aniayo
+dangki: dangka,dangka,cangki
+hutang: utang,kutang,utangi
+tidak: didak,didak,didak
+kayo.: kayo,takay,pakay
+alah: alah,alah,alah
+ipanyo: panyoa,panyog,panyor
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

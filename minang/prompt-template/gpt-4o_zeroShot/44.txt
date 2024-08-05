@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Pintak nan lai ka balaku -- Tuhan nan sadang ka mambari -- alah hilang raso penyakik -- sehatlah badan Magek Manandin -- harilah malam hanyo lai -- dingin nan tidak tatangguangkan -- ma- nangih inyo maso itu -- takana untuang parasaian -- lalu bapantun inyo maso itu
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

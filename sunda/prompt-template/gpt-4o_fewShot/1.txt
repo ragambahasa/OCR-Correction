@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Di antara barudak nu teu daekeun pok muji ngan Isa sorangan, ngeyehkeun teu wani deuih. Ngeletek bae dina hatena hayang nembongkeun kagagahanana leuwih batan Salim. Jeung panas kapiheulaan mashur. ;
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+batan: batan,batan,batan
+sorangan,: sorangan
+Isa: Isa,Isa,Isa
+pok: pok,pok,pok
+wani: wani,wani,wani
+ngan: ngan,ngan,ngan
+leuwih: leuwih,leuwih,leuwi
+muji: muji,muji
+teu: teu,teu,teu
+hayang: hayang,hayang,hayang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

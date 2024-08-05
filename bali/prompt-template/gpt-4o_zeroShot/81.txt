@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Om suasti astu...! Rahajeng semeng, sira niki ? Suasti astu rahajeng mawaii, titiang niki sametone Kak Badung. Kenken kabare? Suba ngopi, Nang Lotok ?
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

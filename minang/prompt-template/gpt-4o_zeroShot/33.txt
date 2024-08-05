@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Alah sarantang pajalanan -- dek lamo lambek di jalan -- jauah basarang dakek juo -- labuah panjang baliku-liku -- hampia ka tibo hanyo lai -- iyo di ranah Sandiang Baka.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

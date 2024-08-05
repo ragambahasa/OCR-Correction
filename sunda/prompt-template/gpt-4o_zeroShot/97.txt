@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Tradisi karuhun ngandung kahadean. Alam kudu dijagaan jeung dilestarikeun. Ruwat laut aya supaya urang inget. Laut eta kudu dijaga meh aya mangpaatna.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

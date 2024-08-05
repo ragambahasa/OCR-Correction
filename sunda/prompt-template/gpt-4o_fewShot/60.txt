@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+.Bener Moto, cek kuring mah, omong Simba. Tah eta dina palebah kituna kuring resep ka Moto teh. Saperti nu dicaritakeun bieu. Kalulu teh apan putra raja, ku Moto rek dimumurah, tur bangsana manehna. Teu kaharti. Sareng jadi jelema beulian. Kedah sukur ka Allah juragan teu jadi abid. Salim: ,,Urang Arab jadi abid | heh. Keur abid mah bangsa neger, ngawulaan urang Arab. Leos indit ka kemahna. Nu sejen oge bubar, da geus peuting ongkoh.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sukur: sukur,sukur,suku
+eta: eta,eta,eta
+Moto,: Moto,Moto,Motor
+ku: ku,ku,ku
+da: da,da,da
+Kalulu: Malulu,Ngalul,Kaluli
+dina: dina,dina,dina
+Nu: Nu,Nu,Nu
+Moto: Moto,Moto,Moto
+apan: apan,apan,apan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

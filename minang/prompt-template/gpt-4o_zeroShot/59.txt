@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Sarak kok ba kapanjangan -- tiok dijapuik inyo tak rujuak -- sabab alah banyak kato nan tadorong di sanan badan mangko sansai -- pikia bana tu nak kanduang -- pitaruah nan jan diubahi -- pabanyak adab dengan sopan -- takuiklah anak lahia batin -- walau ka mano anak ka bajalan -- izin suami baru anak pai --
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

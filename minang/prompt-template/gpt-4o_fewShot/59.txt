@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sarak kok ba kapanjangan -- tiok dijapuik inyo tak rujuak -- sabab alah banyak kato nan tadorong di sanan badan mangko sansai -- pikia bana tu nak kanduang -- pitaruah nan jan diubahi -- pabanyak adab dengan sopan -- takuiklah anak lahia batin -- walau ka mano anak ka bajalan -- izin suami baru anak pai --
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tiok: tiok,tiok,tiok
+izin: izin,izin,izin
+jan: jan,jan,jan
+Sarak: Sarak,Sarak,Sarak
+batin: batin,batin,batin
+pabanyak: pabanyak,pabanyak,dipabany
+pai: pai,pai,pai
+adab: adab,adab,adab
+inyo: inyo,inyo,inyo
+kanduang: kanduang,kanduang,canduang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

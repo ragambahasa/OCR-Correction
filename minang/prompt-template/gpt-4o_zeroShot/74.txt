@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Baru mandanga kato nantun -- manjawab Puti nan Bungsu, Tuan kanduang Rajo Aniayo -- bapikia malah Tuan kanduang -- lagipun hambo dalam manganduang -- tidak malah Tuan mana- ruah santun -- babapak bamandeh tidak -- dunsanak nan baranam alah mati pulo -- tampek bagantung dek badan hambo -- iyolah Tuan surang.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

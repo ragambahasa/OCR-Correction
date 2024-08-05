@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kununlah dubalang nan barampek -- baru mandanga parentah Rajo Aniayo -- bajalan inyo kaampeknyo -- dek lamo lambek nan di jalan -- sampailah inyo di kampuang Muaro Paneh -- iyo di rumah Datuak Mangkudun -- sanan bakato dibalang nan baram- pek -- kapado Datuak Mangkudun, Kami tasuruah dari Rajo -- pai manjapuik Angku kini-kini -- japuik tabawo dek kami -- paralu Angku datang basugiro -- kami mahiriangkan di balakang.~
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lamo: lamo,lamo,lamo
+kapado: kapado,kapado,tapado
+jalan: jalan,jalan,jalan
+basugiro: basugiro,basugiro,tasugiro
+tasuruah: tasuruah,tasuruah,basuruah
+barampek: barampeh
+sanan: sanan,sanan,sanan
+balakang.~: balakang
+manjapuik: manjapuik,manjapuik,manjapuik
+kami: kami,kami,kami
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

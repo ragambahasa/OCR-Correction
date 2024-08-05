@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kununlah dek urang Puti Bungsu -- aia mato giriang gumiriang -- jatuah ciyek jatuah duo -- nan bak maniak putuih talinyo -- nan bak intan putuih pangarang -- manjawab juo inyo maso itu, *Manolah Tuan kanduang hambo -- kok baitu bana kato Tuan --denai nan tidak ka malawan -- tapi mananti malah Tuan sakutiko -- nyak hambo tanah malah nasi dahulu -- untuak Adiak kanduang Cindai Taberai
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+untuak: untuak,untuak,untuak
+aia: aia,aia,aia
+bana: bana,bana,bana
+nyak: nyak,nyak,nyak
+inyo: inyo,inyo,inyo
+hambo: ambo,ambo,jambo
+tidak: didak,didak,didak
+mato: mato,mato,mato
+nasi: nasi,nasi,nasi
+Taberai: Taberan,Taberan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

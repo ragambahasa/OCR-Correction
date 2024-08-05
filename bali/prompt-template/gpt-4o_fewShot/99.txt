@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+tusing ja keweh mapan ia anak sugih. Mlajah ilmu listrik jadwalne duang minggu cepok. Sawireh Pak Agus nawang Kak Badung teken Nang Lotok tusing taen masrekenan mesuang pipis anggon mayah maguru, sabilang jadwal malajah tagina pipis nyang satak tali rupiah. Lenan teken Nang Lotok ada masi ane ngamiluin ajaka patpat, makejang totonan soroh anak suba tengah tuwuh.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tali: tali,tali,tali
+listrik: listrik,listrik,listrik
+ngamiluin: ngamiluin,ngamiluin
+sugih.: sugih,kasugi
+Agus: Agus,Agus,Agus
+maguru,: maguru,maguru
+Nang: Nang,Nang,Nang
+minggu: minggu,minggu,mingga
+ja: ja,ja,ja
+rupiah.: rupiah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

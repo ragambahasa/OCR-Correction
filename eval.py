@@ -92,8 +92,8 @@ def evaluation_metrics(title, df, **kwargs):
     print(" " + "-" * 46)
     print("|" + " " * 5 + "|" + " WAR ".center(9) + "|" + " CAR ".center(9) + "|" + " MAR ".center(9) + "|" + " LEV ".center(9) + "|")
     print("|" + " AVG ".center(5) + "|" + f"{wer_avg: 7.4f}".center(9) + "|" + f"{cer_avg: 7.4f}".center(9) + "|" + f"{mer_avg: 7.4f}".center(9) + "|" + f"{levd_score_avg: 7.4f}".center(9) + "|")
-    print("|" + " MAX ".center(5) + "|" + f"{wer_max: 7.4f}".center(9) + "|" + f"{cer_max: 7.4f}".center(9) + "|" + f"{mer_max: 7.4f}".center(9) + "|" + f"{levd_score_max: 7.4f}".center(9) + "|")
     print("|" + " MIN ".center(5) + "|" + f"{wer_min: 7.4f}".center(9) + "|" + f"{cer_min: 7.4f}".center(9) + "|" + f"{mer_min: 7.4f}".center(9) + "|" + f"{levd_score_min: 7.4f}".center(9) + "|")
+    print("|" + " MAX ".center(5) + "|" + f"{wer_max: 7.4f}".center(9) + "|" + f"{cer_max: 7.4f}".center(9) + "|" + f"{mer_max: 7.4f}".center(9) + "|" + f"{levd_score_max: 7.4f}".center(9) + "|")
     print(" " + "-" * 46)
 
     return df

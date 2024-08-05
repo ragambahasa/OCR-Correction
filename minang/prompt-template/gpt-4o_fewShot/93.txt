@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Hari lah laruik tangah malam -- sadang manangih-nangih juo -- datanglah harimau gadang -- sanan bakato si Bujang Paman, O Niniak harimau gadang -- makanlah baa badan hambo nangko -- kok hiduik juo hambo -- banyak sansaronyo -- hambo rilahkan kini badan hambo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Niniak: Niniak,Niniak
+baa: baa,baa,baa
+Paman,: Pamani,Pamana,Pamand
+juo: juo,juo
+hiduik: iduik,iduika,maidui
+gadang: gadang,gadang,gadang
+Bujang: Bujang,Bujang,Bujang
+bakato: bakato,bakato,bakato
+kok: kok,kok,kok
+malam: malam,malam,malam
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

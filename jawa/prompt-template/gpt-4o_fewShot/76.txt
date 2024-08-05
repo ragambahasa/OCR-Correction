@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Kocap, Resi Sakutrem ingkang mi- dhanget pisambate lan pirsa lamun Prabu Partawijaya iku besan, mula sigra mateg mantra. Saka dayane mantram, wraha salah kedaden bisa pulih kaya wingi uni, dadi manungsa maneh yaiku Prabu Partawijaya. Sigra dening Resi Sakutrem den rangkul gapyuk, kebak rasa sih sutresna. .
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+wraha: araha,praha,gerah
+lan: lan,lan,lan
+Resi: Resi,Resi,Resi
+mateg: atege,maten,mates
+kedaden: kedaden,andhara
+maneh: panji
+manungsa: manungsa,manungsa,manungsa
+pirsa: pamir
+dening: dening,dening,dening
+Sigra: Sigra,Sigra,Sigra
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

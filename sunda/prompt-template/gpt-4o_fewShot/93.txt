@@ -1,0 +1,17 @@
+Please correct the OCR output in Sundanese language:
+Oe Geus kitu datang parentah, prajurit meunang sare, tapi ti ungggal-unggal limaan saurang kudu ngajaga.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Oe: Oe,Oe,Jo
+Geus: Geus,Geus,Geus
+kitu: kitu,kitu,kitu
+datang: batang,matang,watang
+meunang: beunang,beunang,beunang
+sare,: saren,saren,saren
+tapi: tapi,tapi,tapi
+ti: ti,ti,ti
+kudu: kudu,kudu,kudu
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Buku puniki kamedalang pinaka jayanti saking acara Sayembara Penyusunan Bahan Bacaan Siswa SD Kelas Awal 1, 2, dan 3 nganggen dwibahasa utawi kalih basa, inggih punika naskah mabasa Indonesia miwah naskah mabasa Bali sane kasurat ring kalin buku. Indike punika nenten lempas saking utsaha pangawi Wayan Yogik Aditya Urdhahana miwah panyeleh wewacen utawi penyunting Ni Putu Ekatini Negari. Santukan punika titiang ngaturang paramaning suksma majeng ring pangawi kenten taler panyeleh wewacen miwah makasami sane sampun prasida ngwantu nyusun buku puniki. Mogi buku puniki prasida mawiguna pinaka jalaran numbuhang budaya iterasi miwah ngaturang aji kaweruhan ring para jananee nyujur insan Indonesia sane wikan, wicaksana, miwah madue budi pekerti luh ur.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+utsaha: utsaha,utsaha
+pinaka: pinaka,pinaka,pinaka
+puniki.: puniki,sapunik,sapunik
+kasurat: kasurat,kasurat,masurat
+nyujur: nyujuh,nyujuk,nyujut
+ngwantu: ngwantu,ngwantu,ngwantu
+Negari.: Negarin
+majeng: majeng,majeng,majeng
+buku: buku,buku,buku
+dan: dan,dan,dan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

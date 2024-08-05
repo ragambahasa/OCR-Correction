@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Badan Reserse Kriminai (Bareskrim) Mabes Polri bali nahan pimpinan Gerakan Fajar Nusantara {Gafatar) Ahmad Musadeq. Bareng karo Ahmad Musadegq, pulisi uga nahan Mahful Muis Tumanurung lan Andi Cahya. Telu-telune dinuga wis nindakake | kegiyatan ngina lan ngasorake agama. |
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+karo: karo,karo,karo
+Badan: Badan,Badan,Badan
+Fajar: Ajar,Ajar,Ajar
+Cahya.: Cahya,Cahya
+Andi: Andi,Andi,Andi
+pimpinan: pimpinan,pimpinan
+wis: wis,wis,wis
+ngasorake: ngasoraké,ngasoraké,ngasoraké
+lan: lan,lan,lan
+bali: bali,bali,bali
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

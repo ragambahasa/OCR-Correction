@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+Waah mas, mandheg mriki mawon. Tas kula kantun wonten griya, bu Daris nguwuh marang mas kemet. Isih kober nakoni bu Daris Lho, niki pripun? Wangsulane bu Daris: Niki wau kula klentu mbeta, sing kula beta biyasane tas tangan, niki wau Kok klentu Radio sing lagi disetel bojo kula. Krungu wangsulane bu Daris mau, mas kernet ora nesu, malah ngguyu nggleges, semono uga para penumpang sing ana njero angkot.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

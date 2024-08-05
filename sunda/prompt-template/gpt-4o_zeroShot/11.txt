@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+; 1. Sigeg heula lampahna Ki Umarmaya, aya nu kocap deui, Raja di Mukadam, katatamuan besan, Sri Bopati ti Madayin, eukeur kasukan, sareng Raja Mukaji.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+,Mangga, walonna bari lumpat bawaning atoh. Bus ka jero, nyampak Siti Aminah dina bangku keur emok, geus nyekel seureuh rek nyeupah. Salim, geus nyium leungeun jeung nyium tarang kitu petana nandakeun hormat jeung asih di Arab gek diuk gigireunana.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+di: di,di,di
+jero,: jero,jero
+keur: keur,keur,keur
+bangku: bangku,bangku,bangku
+bawaning: bawaning,bawaning,bawaning
+seureuh: seureuh,seureuh,geureuh
+leungeun: leungeun,leungeun,deungeun
+jeung: jeung,jeung,jeung
+tarang: tarang,tarang,carang
+gek: gek,gek,gek
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

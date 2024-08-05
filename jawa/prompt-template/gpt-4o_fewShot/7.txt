@@ -1,0 +1,16 @@
+Please correct the OCR output in Javanese language:
+CUCUKING [, 4 GARUDHA TADHAH |: HI NEMPdH | TEKAN y TALUN GULUNG.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+CUCUKING: CUCUKING,CUCUKING,LAYAR CI
+GARUDHA: GARUDHA,GARUDHA
+TADHAH: TADHAH,TADHAH,WADHAH
+HI: HI,HI,HI
+TEKAN: TEKAN,TEKAN,TEKAN
+y: y,y,y
+TALUN: ALUN,NGALU,KALUN
+GULUNG.: GULUNG,GULUNG,GULUNG
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

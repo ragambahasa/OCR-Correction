@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Ari di kapilah Syekh Amir teu kitu, sabab kabeh pada wawuh. padanyaho. Nu jadi kapala dunungan sapopoe, mandor- besarna Simba jeung Moto geus pada nyaho, jadi andelan sarerea. Jeungna deui balad Syekh Amir mah rea nu mawa anak pamajikan, jaba jariah. Numatak dina peutingan mimiti ngarereb teh heneu- teun, jadi cara nu macangkrama wae, teu aringeteun kana pibahyaeun. Anu rimbitan ngariung jeung anak pamajikan, anu lengoh ngariung jeung sobat-sobat jeung kawawuhan. Jadi di
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+dunungan: dunungan,dunungan
+Ari: Ari,Ari,Ari
+nu: nu,nu,nu
+teu: teu,teu,teu
+anak: anak,anak,anak
+macangkrama: macangkrama,macangkrama
+mawa: mawa,mawa
+balad: balad,balad,balad
+pamajikan,: pamajikan
+ngarereb: ngarereb,ngarereb
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

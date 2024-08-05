@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Tuan kan lah samo-samo mamandangi -- jiko rajo manjatuahkan hukuman -- mahukum bak kato inyo surang -- tidak manimbang dengan kabanaran -- kaadilan jauah sakali -- baagamo nan tidak ado bana -- namun nan kayo bagadang hati sajo -- adatlah hilang agamo pun tak ado -- akhir kalaknyo kamudian -- narako juo -- dunia akhirat tantangannyo.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

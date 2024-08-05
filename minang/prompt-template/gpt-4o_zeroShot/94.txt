@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Sasudah si Bujang Paman manjadi rajo -- sagalo harato ayah kanduangnyo -- sarato harato mandeh dengan mamaknyo -- babaliak kapado inyo kasadonyo -- baitu juo tantang kabau dengan bantiang -- sarato jo taranak ayam jo itiak -- nan tantangan bini dek Rajo Aniayo -- nan mandeh tirihnyo dek si Bujang Paman -- disanangkannyo salamonyo -- dibarinyo rumah dengan sawah -- sarato kabau dengan bantiang.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

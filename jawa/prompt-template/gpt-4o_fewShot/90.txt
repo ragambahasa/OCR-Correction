@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Manut ilmu kcdhokteran bocah wadon iku kang becik nduwe mo- mongan udakara antarane 2) taun nganti 35-an. Ana umur mau bocah
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+iku: iku,iku,iku
+nganti: nganti,nganti,nganti
+kcdhokteran: ngèlmu kedh
+mongan: mongan,mongan,omonga
+kang: kang,kang,kang
+mau: mau,mau,mau
+wadon: wadon,wadon,wadon
+antarane: lantaran,antarané,lantaran
+umur: umur,umur,umur
+Manut: Manut,Manut,Manut
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+14. Kacaturkeun wadyana Raja Mukadam, nu diandelkeun jurit, lain pisan jalma, anu dijieun balad, rupa arca warni-warni, nu ngageugeuhna, Ki Patih Tapel-aji.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+anu: anu,anu,anu
+lain: lain,lain,lain
+Ki: Ki,Ki,Ki
+pisan: pisan,pisan,pisan
+balad,: balad,balad,balad
+arca: arca,arca,marc
+rupa: rupa,suru
+Patih: Pati,Catih,Latih
+nu: nu,nu,nu
+jalma,: jalma,jalma
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Maan, maan, kenken beritane Kak Badung jag tumben gentur sajan semengane jani, apake ada anak ngadep gabah? Anak mula keto tabuhne Nang Lotok mapan ia anak petani nyambil dadi saudagar padi, sinah ane satuanga soroh pamulan padi teken dagang gabah, miwah dewasa mamula padi.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+padi.: padi,padik,padik
+mula: mula,mula,mula
+petani: tetani,tetani,empeta
+soroh: soroh,soroh,soroh
+ia: ia,ia,ia
+miwah: miwah,miwah,miwal
+Lotok: Lotok,Lotok,Lotok
+maan,: maan,maan,maan
+keto: keto,keto,keto
+padi,: padi,padik,padik
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

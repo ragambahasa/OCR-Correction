@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Mandanga di kato nantun -- agak tacangang Pangulu Nagari -- kato sarupo batujuan -- ado mukasuik jo sangajo -- lalu batanyo juo nan jadi, 'Manolah Tuan rajo nan datang -- tipak di kami nan di nagari -- kok urang lalu lai dibao singgah -- kununlah pulo ado mukasuik jo sangajo.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

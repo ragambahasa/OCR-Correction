@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+PITEKET SATUA lraga dados jadma patut saling tulungin, asih ring kauripan pakraman.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+PITEKET: PITEKET,PITEKET,PITEKET
+SATUA: SATUA,SATUA,SATUA
+lraga: raga,raga,raga
+dados: dados,dados,dados
+jadma: jadma,jadma,padma
+patut: patut,patut,patut
+saling: saling,saling,salin
+tulungin,: tulungin,tulungina,katulungi
+asih: asih,asih,asih
+ring: ring,ring,ring
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

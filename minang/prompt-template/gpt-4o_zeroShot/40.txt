@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Sadang dek Subang Bagelang -- naiaklah inyo ka ateh rumah -- taruih sakali ka ateh anjuang -- dibukak kalambu katujuahnyo -- tidua bagaluang bagai kuciang -- aia mato giriang gumiriang -- makan tidak minumpun tidak -- badanlah kuruih bagai pimpiang.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

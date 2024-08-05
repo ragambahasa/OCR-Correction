@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+salmipalkanlah pasahn. Sadang dek urang nan manggaleh -- pakirim nan sudah dibari -- kannyo -- lalu mamintak izin ka bajalan hanyo lai -- lalu turun ka halaman -- bajalanlah inyo maso itu -- lapeh nan dari kampuang Koto Anau.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

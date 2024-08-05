@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Bulu mato samuik baririang -- caliak mamutuih rangkai hati -- mukonyo nan bak bulan panuah -- salah dek tidak bapakaian. Bakato si Bujang Paman iyo kapado mandeh kanduang diri. **Mandeh kanduang di badan hambo -- bari luruih hambo batanyo -- Mandeh curaikan malah baelok-elok -- tidakkoh ado hambo babapak -- apokoh sabab damikian -- mangapo kito diam di dalam rimbo nangko?
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Oe Baitu banalah -- busuak parangainyo Rajo Aniayo -- tidak hutang dipajadi hutang -- hatinyo dangki -- dek karano ipanyo alah kayo.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

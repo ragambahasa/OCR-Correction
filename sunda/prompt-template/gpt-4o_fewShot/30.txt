@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+32. Ngan disebut sawarehna, ku bawaning loba teuing, jambe jajar babanjaran, lir sarah kalakay sirih,tangkal tangkalak tangkil, menol ku buah tumungkul, sagala tatangkalan, jeruk jarak jambu jali, manggah manggu duren dukuh ngarandakah.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tangkil,: tangkil
+jajar: jajar,jajar,jajal
+manggah: manggah,manggah,mangga
+duren: kuren,kuren,kuren
+buah: buah,buah,kabu
+sarah: sarah,sarah,barah
+jeruk: deruk,deruk,deruk
+teuing,: teuing,manateu,tada te
+Ngan: Ngan,Ngan,Ngan
+ku: ku,ku,ku
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

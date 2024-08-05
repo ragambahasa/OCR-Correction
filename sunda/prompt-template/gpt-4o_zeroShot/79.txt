@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Simba muru ka nu dituduhkeun ku prajurit, gero tarik pisan: vleu! ieu! kapanggih! Rob pada nyalampeurkeun. Simba teu malire ka nu ngarogrog, geus ngagero tuluy ngucap sukur, pokna: Alhamdulillah, nuhun ya Rabbalalamin, dunungan abdi kapanggih deui.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

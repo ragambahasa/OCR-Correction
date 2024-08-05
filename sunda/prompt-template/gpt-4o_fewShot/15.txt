@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+.Heueuh. Jig geura sare, geus peuting. leu surat-surat keur ka sobat-sobat. surat-surat wasiat jeung surat-surat nu sejen sakur nu perlu diampihan, ku Buya diiangkeun isukan, rek nitahan jelema ka Zanzibar, supaya dipasrahkeun ka Panghulu. Ujang ulah salah nya mapay, kudu ka Panghulu. Pek ka itu geura sare.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+itu: itu,itu,itu
+sare,: saren,saren,saren
+peuting.: peuting
+supaya: supaya,supaya,supaya
+sare.: saren,saren,saren
+kudu: kudu,kudu,kudu
+nya: nya,nya,nya
+jeung: jeung,jeung,jeung
+isukan,: isukan,isukan
+sakur: sakur,sakur,sakur
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

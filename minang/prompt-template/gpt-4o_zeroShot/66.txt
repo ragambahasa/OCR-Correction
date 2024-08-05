@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Alah badarok patang malah hari -- tibolah inyo di Pasa Gadang -- namun malam samalam nantun -- bamalamlah inyo di sanan -- ayam bakukuak hari lah siang -- nan di pagi sapagi itu -- bajalan juo kaanamnyo -- lapeh nan dari Pasa Gadang -- handak manampuah kota Padang -- sanan dicubo malah baniago -- tingga
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

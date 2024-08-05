@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Rahayu, puja pangastiti aturang titiang majeng ring Ida Sang Hyang Widhi Wasa. santukan sangkaning asung kertha wara nugrahan Ida buku puniki prasida kamijilang tur mangkin sampun prasida kawacen olih ida dane makasami.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

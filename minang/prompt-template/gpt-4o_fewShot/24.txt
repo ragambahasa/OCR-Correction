@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Bia panjapuik-japuik aia -- bia pancari-cari kayu -- jo suko hati hambo manuruik. Mandanga pantun Puti Bungsu -- galak tasa- nyum sutan Rajo Ali -- sanan bakato hanyo lai, Toh melah kito barangkek malah lai -- tidaklah guno kito lamo di siko.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Mandanga: Mandanga,Mandanga,Mandanga
+sutan: utan,utang,kutan
+galak: balak,palak,palak
+kayu: kayu,kayu,kayu
+malah: alah,alah,balah
+pancari-cari: mancari-cari
+Puti: Puti,Puti,Puti
+nyum: nyum,nyum,nyum
+hambo: ambo,ambo,jambo
+hati: hati,hati,kato
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

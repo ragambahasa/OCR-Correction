@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Ilmu to anak mula mael, Nang Lotok, yen suba iraga bisa mubad-ubadan nganggon serana strum listrik, kan melah pesan, mapan aluh ngalih listrik. keto pasautne Kak Badung sambilanga magageblusan ngroko. Nang Lotok mapineh-pineh di korsine empuk sambilanga mengkhayal Beh, melah ulesne tenenan yen prade idewek bisa ngubadin anak sakit rematik nganggon strum listrik, sinah anake bengong ngajinang idewek,
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+iraga: iraga,iraga,iraga
+sinah: sinah,sinah,jinah
+kan: kan,kan,kan
+melah: melah,melah,melah
+pesan,: pesan,pesan,empesa
+ngajinang: ngajinang,ngajinang
+prade: prada,prada,pradé
+listrik,: listrik,listriki,malistri
+mula: mula,mula,mula
+serana: useran,musera,useran
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

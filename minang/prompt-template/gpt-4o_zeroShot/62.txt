@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Nan tuo Sutan Sari Alam -- nan kaduo Sutan Palembang -- nan katigo si Awang Labiah -- nan kaampek Bagindo Mulia -- nan kalimo Mandukuang Alam -- nan kaanam Malin Duano -- nan ketek Puti nan Bungsu.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

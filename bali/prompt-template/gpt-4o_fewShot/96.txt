@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Man, bin pidan Pak Agus lakar mai ? keto pasautne Nang L.otok ulesne ia suba peragat mineh-minehin, mapan ia padidi anak ngeraksa sakit rematik, flu tulang, lan asam urat, nyen nawang ulian nto nyidayang nyegerang sakitne suba makudang-kudang tiban rasanga.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ulian: lian,liang,tulia
+padidi: padidi,padidi,padidi
+tiban: tiban,tiban,tiban
+nyen: nyen,nyen,nyen
+keto: keto,keto,keto
+nto: nto,nto,nto
+urat,: urat,burat,burat
+Nang: Nang,Nang,Nang
+peragat: peragaa
+lakar: lakar,lakar,lakar
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Mandanga kato sarupo basindiran -- kununlah dek Puti Reno Ali -- bakato juo nan jadi, Manolah Tuan urang manggaleh -- koknyo lai suko hati Tuan -- sukolah hambo manambah -- pokok Tuan untuak baniago -- barapo ka sadang hambo carikan malah.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lai: lai,lai,lai
+koknyo: koknyo,salang
+sarupo: sarupo,sarupo,sarupo
+pokok: pokok,pokok,pokok
+untuak: untuak,untuak,untuak
+Puti: Puti,Puti,Puti
+Ali: Ali,Ali,Ali
+dek: dek,dek,dek
+manggaleh: manggaleh,manggaleh,panggaleh
+Manolah: Manolak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

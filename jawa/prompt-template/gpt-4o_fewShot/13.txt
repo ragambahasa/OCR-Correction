@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Ores? FEOR Oe So _ i PL ye 1g On 7 oe Merri tu memene lan bakat- kang. didus* <amenyang sanggar Angrek Pimpinani Joko:
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ye: ye,ye,ye
+i: i,i,i
+Oe: Oe,Pe
+sanggar: sanggar,sanggar,sangga
+PL: PL,PL,PL
+lan: lan,lan,lan
+kang.: kang.,duwé ,kang
+So: So,So,So
+Angrek: Angrek,Pangre,Angrem
+Pimpinani: Pimpinan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Aliahnyo kapado Datuak Bandaro -- duo jo Puti Linduang Bulan -- salamo paningga anak kanduang -- tidak ado bahati sanang -- kaba tidak barito pun tidak -- nasi dimakan raso sakam -- aia diminum sambiluan -- anak kanduang takana juo -- mntang baurai aia mato.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+sakam: sakam,sakam,sakam
+mntang: bintan,centan,dantan
+diminum: diminum,diminum
+paningga: maningga,maningga,maningga
+salamo: salamo,salamo,salam
+kapado: kapado,kapado,tapado
+mato.: mato,parma,aia m
+takana: takana,takana,takana
+nasi: nasi,nasi,nasi
+jo: jo,jo,jo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

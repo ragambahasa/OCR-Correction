@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+NE i ees 2 Q VW, e ~ G OK Me ~ or CUd) : wy es a 7
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+NE: NE,NE,NE
+es: es,es,es
+G: G,G,G
+Me: Me,Me,Me
+a: a,a,a
+e: e,e,e
+or: or,or,or
+2: 2,2,2
+OK: OK,OK,OK
+Q: Q,Q,Q
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

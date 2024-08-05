@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+21. Nu hayang henteu kasorang. enggeus jadi nerapkeun elmu sihir, tangtos jadi burung palung, kuma onam nu ngewa, da- pon puas henteu sieuneun kaduhung, arang nu ras ka aherat, su- paya puas di lahir.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+tangtos: tangtos,tangtos
+jadi: jadi,jadi
+Nu: Nu,Nu,Nu
+ka: ka,ka,ka
+di: di,di,di
+kuma: kuma,kuma,kuma
+enggeus: enggeus,enggeus,enggeus
+ras: ras,ras,ras
+paya: paya,paya,paya
+palung,: palung,palung
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

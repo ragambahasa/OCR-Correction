@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+28. Bagenda Mir di jero pura, nyaur deui ka Jarah-Banun Dewi, eh Nyai Nyi Jarah-Banun, sing hade-hade pisan, nya te- tebah matur Raden Jarah-Banun, Gusti sumuhun timbalan, perka- wis mapajang bumi.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

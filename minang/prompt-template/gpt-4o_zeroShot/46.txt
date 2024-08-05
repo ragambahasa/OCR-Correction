@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Kununlah pulo Puti Subang Bagelang -- tunangan dek Magek Manandin -- hati nan tidak namuah sanang -- darah di dado ba- dabok-dabok -- apo ka dayo badan awak -- tidak dapek tampek batenggang -- rusuah jo apo ka dipujuak -- manangih babuah pan- tun
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

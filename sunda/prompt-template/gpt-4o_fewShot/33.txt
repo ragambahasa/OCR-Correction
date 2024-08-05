@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Alah, mani geus asa bek-asa bek digebug ku tulale, nyegorna ambekan gajah geus asa dina birit. Ras inget kana pamake paburu Warori!?, bangsa kuring, ari diudag gajah ulah lempeng, cilaka. Jengjar kuring mengkol ka katuhu, lumpat malik deui ka urut. Ari gajah melepas ngadurugdug; rek mengkol teh kudu eureun heula.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kudu: kudu,kudu,kudu
+mengkol: engkol,sengkol,sengkol
+ulah: ulah,ulah,ulah
+paburu: paburi,pabura,pabura
+kana: kana,kana,kana
+mani: mani,mani,mani
+geus: geus,geus,geus
+ku: ku,ku,ku
+melepas: pelepas
+ka: ka,ka,ka
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

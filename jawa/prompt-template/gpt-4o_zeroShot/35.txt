@@ -1,0 +1,5 @@
+Please correct the OCR output in Javanese language:
+| Mangudi Slamete Bebrayan ing Donya lan Aktwrat. pathy cprrtt ce ee a 4 ECE SUT TRIER ARTE SV PETE EBERT ELIE BNE
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

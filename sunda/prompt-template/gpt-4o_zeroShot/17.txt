@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+Kulisi: ..Kaulanun sumuhun pariksa gusti, ieu ngadeuheus- keun palancongan duaan, kenging nangkep ti peupeuntasan. Numawi ditangkep margi dangdananana sareng barangbantunna benten sareng urang Urori, ngabohong teu kireum-kireum. Sadaya- daya nyembahkeun, kumaha pangersa gusti.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

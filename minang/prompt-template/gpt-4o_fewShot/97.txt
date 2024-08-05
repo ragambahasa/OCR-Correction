@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+tidak tabado -- dihampirinyo si Bujang Paman -- dicaliaknyo kaki si Bujang Paman -- kironyo tasapik di kayu gadang -- sanan marauang harimau nantun -- kapiang-kapiang kayu nantun -- dek kuatnyo harimau manguakkan -- lalu dijileknyo si Bujang Paman.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Bujang: Bujang,Bujang,Bujang
+gadang: gadang,gadang,gadang
+tidak: didak,didak,didak
+tabado: tabado,tabado
+marauang: marauang,marauang,parauang
+lalu: lalu,lalu,lalu
+kayu: kayu,kayu,kayu
+Paman.: Pamani,Pamana,Pamand
+si: si,si,si
+dek: dek,dek,dek
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

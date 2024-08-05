@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+_r* sumuhun, nanging ieu mah perang sareng urang Arab tina sarebu nu dalapan ratus prajurit Ama. Emutan abdi sanes kedahna Ama nampi bagian sasihna ti Paroja.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ratus: ratug
+nu: nu,nu,nu
+tina: tina,tina,tina
+nampi: tampi,gampi,lampi
+sanes: sanep
+dalapan: ngalapa
+mah: mah,mah,mah
+urang: urang,urang,urang
+Ama: Ama,Ama,Ama
+sareng: sareng,sareng,sareng
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

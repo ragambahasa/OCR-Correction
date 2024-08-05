@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Buku puniki nyaritayang sapunapi sang sane ngrereh genah kautaman punika patut mautsaha, nenten ja dangan ngrereh genah sane utama punika. Madaging carita mabela pati kantos ngamolihang genah sane utama utawi ngamolihang karahayuan.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Madaging: Madaging,Madaging,Kadaging
+ja: ja,ja,ja
+punika: punika,punika,punika
+ngrereh: ngrereh,ngrereh,ngrereh
+genah: genah,genah,genah
+carita: arita,aritan,aritan
+utawi: utawi,utawi,utawa
+Buku: Buku,Buku,Buku
+dangan: dangan,dangan,dangan
+pati: pati,pati,pati
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

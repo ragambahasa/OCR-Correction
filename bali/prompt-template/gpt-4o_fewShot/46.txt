@@ -1,0 +1,13 @@
+Please correct the OCR output in Balinese language:
+pamriksane mangde ka siddhan mamarggi pdasang sampunang nyaru
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+mangde: mangda,mangda,mangdé
+ka: ka,ka,ka
+pdasang: kadasan,kedasan,tedasan
+sampunang: sampunang,sampunang
+nyaru: nyaru,nyaru,nyaru
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

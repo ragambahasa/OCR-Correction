@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+EEE BOE IE Sadang dek Angku Rajo Aniayo -- lalu dibaco surek nantun -- surek nan dari kak tuo jo kak tangah -- nan ketek iyolah Malin Duano -- isi surek mengabakan bahaso manggaleh lai baruntuang -- iko pakirim pitih anam puluah rupiah -- salam dan maaf dari kami -- nan bagala Sutan Sari Alam.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lalu: lalu,lalu,lalu
+salam: salam,salam,salam
+Malin: Malin,Malin,Malin
+Sadang: Sadang,Sadang,Sadang
+kami: kami,kami,kami
+Sari: Sari,Sari,Sari
+manggaleh: manggaleh,manggaleh,panggaleh
+puluah: puluah,puluah,sapulu
+lai: lai,lai,lai
+Aniayo: Aniayo,Aniayo,Aniayo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Bakato Puti Reno Ali, O Tuan si Bujang Paman -- koknyo tidak namuah Tuan -- mamakai cincin nangko -- simpan malah di dalam kabek pinggang -- koknyo kurang pitih nantun -- iko duo ratuih lai -- nan pintak hati hambo -- Tuan bawo juolah cincin nangko -- kok leh ka ganti tangka jo azimat.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+mamakai: mamakai,mamakai,mamakan
+koknyo: koknyo,salang
+duo: duo,duo,duo
+cincin: cincin,cincin,cincin
+pintak: pintak,pintak,pintak
+tidak: didak,didak,didak
+ka: ka,ka,ka
+tangka: tangka,tangka,tangka
+jo: jo,jo,jo
+Bujang: Bujang,Bujang,Bujang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Neked di Gook Lumbang, | Bagus Caratan lan | Raksasa masiat. la nyemprotang toya wisya ka awakne | Raksasa. | Raksasa glalang-gliling aduh-aduh krana kena toya wisya tur ngemasin mati.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+se NES OME ESATO ere ee BN Alah tibo inyo di galanggang -- iyo galanggang Puti Linduang Bulan -- lalu turun dari ateh kudo -- disonsong dek basa jo pangulu -- sarato dubalang nan barampek.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nan: nan,nan,nan
+Bulan: Bulan,Bulan,Dulan
+turun: turun,turun,turun
+galanggang: galanggang,galanggang,galanggang
+kudo: kudo,kudo,kudo
+lalu: lalu,lalu,lalu
+jo: jo,jo,jo
+dek: dek,dek,dek
+ere: ere,ere,ere
+pangulu: pangulu,pangulu
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

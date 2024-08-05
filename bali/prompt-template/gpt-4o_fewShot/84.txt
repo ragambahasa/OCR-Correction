@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Oh, enggal ja Nang Lotok teka, mai malu dini negak, icang maan berita melah pesan. keto daduunne Kak Badung sambilanga nandan limane Nang Lotok ngungsi kamar tamiu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+icang: icang,icang,icang
+Nang: Nang,Nang,Nang
+sambilanga: sambilanga,sambilanga,ambilanga
+Badung: Adung,Adung,Adung
+berita: gerita,jerita,maceri
+keto: keto,keto,keto
+maan: maan,maan,maan
+kamar: kamar,kamar,kamar
+melah: melah,melah,melah
+pesan.: pesan,pesan,empesa
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

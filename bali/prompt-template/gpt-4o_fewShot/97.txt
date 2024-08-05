@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Bin mani semengan sawatara dauh telune mai, sinah ia suba lakar ngantosang dini.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Bin: Bin,Bin,Bin
+sawatara: sawatara,sawatara,sawatara
+ia: ia,ia,ia
+mani: mani,mani,mani
+semengan: semengan,semengan
+dini.: dini,gedin,gedin
+dauh: dauh,dauh,dauh
+suba: suba,suba,suba
+sinah: sinah,sinah,jinah
+ngantosang: ngantosang,ngantosang,antosang
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

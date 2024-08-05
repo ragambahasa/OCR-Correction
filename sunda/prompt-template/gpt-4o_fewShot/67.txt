@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+9. Kocap anu ngawang-ngawang, Kusumah-Rara-Rengganis, teu petot-petot pasea, di luhur jeung Raden Mantri, anu matak teu rapih, jeung anu nyekel sasampur, Raden Iman Suwangsa, digelendeng ku Rengganis, katalanjur nu kasep cidra jangjina.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Raden: Ngade,Ngade
+Iman: Iman,Lima
+di: di,di,di
+nu: nu,nu,nu
+cidra: cidra,cidra
+matak: matak,matak,mata
+ku: ku,ku,ku
+rapih,: rapih,rapih,rapih
+Kocap: Kocak
+sasampur,: sasampur
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

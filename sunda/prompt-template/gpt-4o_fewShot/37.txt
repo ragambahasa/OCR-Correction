@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+: Pesta enggeusan, semah budal ti dayeuh, masanggrahan di urut urang arab tea, ngareureuh minangkana mah, tapi jeung pribumi teu petot silihanjangan..
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+petot: petot,petot,petot
+budal: udal,udal,budah
+urut: urut,urut,urut
+arab: arab,arab,arab
+teu: teu,teu,teu
+urang: urang,urang,urang
+minangkana: minangka
+di: di,di,di
+semah: lemah,temah,seman
+jeung: jeung,jeung,jeung
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

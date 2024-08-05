@@ -1,0 +1,5 @@
+Please correct the OCR output in Balinese language:
+Buku puniki nyaritayang sapunapi sang sane ngrereh genah kautaman punika patut mautsaha, nenten ja dangan ngrereh genah sane utama punika. Madaging carita mabela pati kantos ngamolihang genah sane utama utawi ngamolihang karahayuan.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

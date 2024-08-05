@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Dangakan malah elok-elok -- nak jan Tuan salah tarimo -- tan- tangan niat dalam hati -- kok siang manjadi angan-angan -- kok malam manjadi buah mimpi -- salorong tantangan niat jo sangajo -- koknyo lai suko Tuan tarimo -- bali jo pintak kapado Tuan -- iyo nak manjadi rang sumando dek Tuan -- untuak suami dek Puti Bungsu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+jo: jo,jo,jo
+dek: dek,dek,dek
+jan: jan,jan,jan
+Dangakan: Mangakan,Pangakan
+dalam: dalam,dalam,dalam
+nak: nak,nak,nak
+pintak: pintak,pintak,pintak
+salah: salah,salah,salah
+rang: rang,rang,rang
+untuak: untuak,untuak,untuak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

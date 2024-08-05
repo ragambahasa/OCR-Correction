@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Lacur seken lacur, ia nglekadang panak magoba caratan. Caratane ento bisa ngomong cara anak muani. Munyine alus, matata budhi. Reramane sayang pesan tekening ia. Lantas ia kaadanin | Bagus Caratan.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+lacur,: lacur,lacur,lacur
+Caratan.: Caratan,Caratan
+seken: seken,seken,seken
+tekening: rekening
+magoba: magoba,magoba,magoba
+pesan: pesan,pesan,pesan
+Bagus: Bagus,Bagus,Bagus
+nglekadang: nglekadang,nglekadang,lekadang
+kaadanin: kaadanin,kaadanin
+matata: matata,matata,matata
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sadang dek Subang Bagelang -- naiaklah inyo ka ateh rumah -- taruih sakali ka ateh anjuang -- dibukak kalambu katujuahnyo -- tidua bagaluang bagai kuciang -- aia mato giriang gumiriang -- makan tidak minumpun tidak -- badanlah kuruih bagai pimpiang.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+mato: mato,mato,mato
+tidak: didak,didak,didak
+taruih: taruih,taruih,taruih
+dek: dek,dek,dek
+anjuang: anjuang,anjuang,anjuang
+aia: aia,aia,aia
+kuciang: kuciang,kuciang,kuciang
+Sadang: Sadang,Sadang,Sadang
+bagaluang: bagaluang,bagaluang,tagaluang
+kuruih: kuruih,kuruih,kuruih
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Tidaklah lamo antaronyo -- alah digali malah pandam pakuburan -- lalu dimandikan maik kaduonyo -- kapan bacabiak hanyo lai -- alah sudah pulo maik dikapani -- lalu disambahyang- kan sakali. Alah salasai sado nan paralu -- lalu dihosong malah maik basamo-samo -- sananlah banduang bunyi ratok. Allahu Rabbi bunyi tangih -- ramuaklah hati mandangakan -- saraso ka taban bumi nangko.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+pandam: pandam,pandam,pandam
+hati: hati,hati,kato
+bunyi: unyi,unyia,unyia
+Alah: Alah,Alah,Alah
+nan: nan,nan,nan
+pulo: pulo,pulo,pulo
+kan: kan,kan,kan
+nangko.: manangk,panangk,manangk
+maik: maik,maik,maik
+sado: sado,sado,sado
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kununiah dek urang Puti nan Bungsu -- disalasaikan malah anak kanduang -- dilihek rupo jo tampannyo -- sabagai bulan ampek baleh -- lalu dikarek malah puseknyo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+urang: urang,urang,urang
+jo: jo,jo,jo
+rupo: rupo,rupo,rupo
+dek: dek,dek,dek
+nan: nan,nan,nan
+lalu: lalu,lalu,lalu
+kanduang: kanduang,kanduang,canduang
+baleh: baleh,baleh,baleh
+anak: anak,anak,anak
+ampek: ampek,tampe,dempe
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

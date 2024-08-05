@@ -1,0 +1,17 @@
+Please correct the OCR output in Sundanese language:
+Poe ieu Bapa Ema loba tamu. Dulur baraya datang ka imah kami.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+ieu: ieu,ieu,ieu
+Ema: Ema,Ema,Ema
+loba: loba,loba,loba
+tamu.: tamus,tatam,muna 
+Dulur: Lulur,Sulur,Pupul
+baraya: baraya,baraya,baraya
+datang: batang,matang,watang
+ka: ka,ka,ka
+imah: imah,imah,imah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

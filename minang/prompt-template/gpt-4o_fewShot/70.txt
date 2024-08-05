@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Sanan bakato Rajo Aniayo -- iyo kapada Puti nan Bungsu. Adiak kanduang Puti nan Bungsu -- eloklah pasankan dunsanak kau -- mintaklah pulang kaanamnyo -- dek sadang lai kayo inyo kini -- kok tibo inyo di kampuang -- suruah manabuih jo mamagang -- supayo nak sanang badan kito. Manjawab Puti nan Bungsu.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+kapada: kapado,tapada,bapada
+manabuih: manabuih,manabuih,panabuih
+Puti: Puti,Puti,Puti
+Adiak: Adiak,Adiak,Adiak
+dunsanak: dunsanak,dunsanak,dunsanak
+Sanan: Sanan,Sanan,Sanan
+Aniayo: Aniayo,Aniayo,Aniayo
+nan: nan,nan,nan
+supayo: supayo,supayo
+Rajo: Rajo,Rajo,Rajo
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kini baitu malah dek ang -- tidak suko kami mambari lai -- elok bajalan Buyuang kini juo -- kami tak suko mambao tompang. Ba- jalan Magek Manandin -- hari lah laruik tangah malam -- aia mato badarai-darai -- buni tangih mahisak-hisak -- bansaik nan tidak tatangguangkan -- sabab dek main judi juo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Ba-: Ba-,Ba-,Ba-
+nan: nan,nan,nan
+lai: lai,lai,lai
+ang: ang,ang,ang
+bansaik: bansaik,bansaik
+aia: aia,aia,aia
+malah: alah,alah,balah
+bajalan: bajalan,bajalan,bajalan
+tidak: didak,didak,didak
+tompang.: tompang,tompangi,tompanga
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

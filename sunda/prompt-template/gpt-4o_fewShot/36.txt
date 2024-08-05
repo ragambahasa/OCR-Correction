@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Moto tacan pok ngomong, Simba geus miheulaan: ,,Perang, Moto? Anu dipikasalempang teh bukti. Ieu teh lantaranana perang bareto tea, Kisesa ngarurug Mostana, basa didinya milu nya?
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Simba: Limba,Mimba,Rimba
+Anu: Anu,Anu,Anu
+tacan: tacan,tacan,acan
+Moto: Moto,Moto,Moto
+Ieu: Ieu,Ieu,Ieu
+pok: pok,pok,pok
+teh: teh,teh,teh
+milu: milu,milu,milu
+basa: basa,basa,basa
+Moto?: Moto,Moto,Motor
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

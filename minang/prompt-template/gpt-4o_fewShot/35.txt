@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Kini baitu malah dek Tuan -- tidak guno lamo di siko -- kito naiak malah ka rumah -- urang lah rapek manantikan. Sanan manjawab Datuak Bandaro,
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+rapek: rapek,rapek,rapek
+Sanan: Sanan,Sanan,Sanan
+lah: lah,lah,lah
+baitu: baitu,baitu,baita
+urang: urang,urang,urang
+guno: guno,guno,guno
+Kini: Kini,Kini,Kini
+di: di,di,di
+Datuak: Datuak,Datuak,Datuak
+tidak: didak,didak,didak
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

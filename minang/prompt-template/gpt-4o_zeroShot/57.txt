@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+EEE IEEE EE SEN EE Sadang bapantun-pantun juo -- bapantun sambia manangih -- alah tibo Subang Bagelang -- lalu dihampiri Magek Manandin -- sanan bakato Subang Bagelang, '"O Tuan urang manggaleh -- salamo Tuan dikubuakan -- badan hambo jatuah sakik--sakik nan
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

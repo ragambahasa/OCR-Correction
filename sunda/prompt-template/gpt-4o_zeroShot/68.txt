@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+cangkudu secang cangkuang, kadongdong sedeng gumading, ka- wung kalapa_ kopi, cau cabe saga sagu, sagala-gala aya, katela kentang kumeli, unggal lebak lubak-libuk pelak lobak.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

@@ -1,0 +1,18 @@
+Please correct the OCR output in Balinese language:
+Kene to Nang Lotok, icang maan guru kebatinan linuwih pesan. la nyidayang nyemak strum listrik roras tali watt tuara ja mencanen strume totonan, keneh icange lakar bareng-bareng maguru elmu listrik ngajak Nang Lotok.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Lotok.: Lotok,Lotok
+listrik: listrik,listrik,listrik
+to: to,to,to
+icange: icang,icang,maican
+Kene: Kene,Kene,Kene
+ja: ja,ja,ja
+keneh: keneh,keneh,keneh
+bareng-bareng: bareng-bareng,bareng-bareng
+ngajak: ngajak,ngajak,ngajak
+la: la,la,la
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Balinese language with proper punctuation and spacing.
+Output:

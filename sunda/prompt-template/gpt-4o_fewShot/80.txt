@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Hanjakal, loba jalema anu miceun runtah. Botol palastik jeung bungkus kadaharan. Urang inget ka Pak Deden. Pak Deden padamelanna ngolah sampah.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+miceun: piceun
+jalema: ngalem
+Botol: Botoh,Botoh,Potol
+jeung: jeung,jeung,jeung
+bungkus: bungkul,tungkus
+runtah.: runtah
+inget: ngeti,sange,senge
+ka: ka,ka,ka
+Urang: Urang,Urang,Urang
+Deden: Dedek,Dedel,Keden
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

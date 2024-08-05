@@ -1,0 +1,5 @@
+Please correct the OCR output in Sundanese language:
+; fy oruntab a ~ Unggal poe ngumpulan runtah palastik. Pak Deden ngajual eta botol ka pabrik. Urang jeung babaturan mulungan runtah. Ambeh teu kadeuleu pabalatak.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:

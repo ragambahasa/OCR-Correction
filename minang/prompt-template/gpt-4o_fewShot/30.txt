@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+EEE OE EOE EEE eee ee Lorong kapado Puti Cindai Taberai -- alah tahu inyo di kakak- nyo -- lalu manangih mahisak-hisak -- Allahu Rabbi samaso itu -- urang nan lain pun alah sabak pulo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+samaso: mamaso,pamaso,mamaso
+Lorong: Lorong,Lorong,Corong
+ee: ee,ee,ee
+di: di,di,di
+urang: urang,urang,urang
+pulo.: pulo,tamba
+kakak-: kakak,kakak 
+Puti: Puti,Puti,Puti
+Taberai: Taberan,Taberan
+alah: alah,alah,alah
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

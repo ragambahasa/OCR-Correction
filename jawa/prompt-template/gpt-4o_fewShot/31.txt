@@ -1,0 +1,18 @@
+Please correct the OCR output in Javanese language:
+Minangka pemimpin sing becik, paribasan kudu bisa niteni suwara watuk jan ambu kringete prajurite, awit pemimpin sing pinter ing suwalike meja, durung karuwan pinter ing lapangan. Mangkono pangucape Kol (Inf) Arris Syamsu, S.Ap, SH, piyayi sing nampa anugrah pangormatan Bintang Veteran Nasional iki .
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+Kol: Kol,Kol,Kol
+pinter: pinter,pinter,pinter
+iki: iki,iki,iki
+nampa: nampa,nampa,nampa
+bisa: bisa,bisa,bisa
+sing: sing,sing,sing
+suwara: suwara,suwara,suwara
+watuk: watu,katuk,ana w
+meja,: kemej,kompl
+durung: durung,durung,durung
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Javanese language with proper punctuation and spacing.
+Output:

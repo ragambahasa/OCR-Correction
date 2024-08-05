@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+nt si es a, ~ ae Bakato Puti Reno Ali, Jiko itu Tuan rusuahkan -- tantangan pitih dengan cincin -- tidaklah Tuan ka mangganti-- nan lain daripado itu -- hambo sarahkan kapado Tuan -- kalau tasabuik ameh jo perak -- lai banyak pado hambo -- janlah Tuan tagamang tantang itu -- asal leh lai Tuan babaliak hiduik
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+pado: pado,pado,pado
+jo: jo,jo,jo
+hambo: ambo,ambo,jambo
+ae: ae,ae,ae
+babaliak: babalian,tabaliak,disabali
+ameh: ameh,ameh,ameh
+si: si,si,si
+Bakato: Bakato,Bakato,Bakato
+kapado: kapado,kapado,tapado
+dengan: maente,balere,bapate
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

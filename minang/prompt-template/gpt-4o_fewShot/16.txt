@@ -1,0 +1,18 @@
+Please correct the OCR output in Minangkabau language:
+Dek urang Puti Bungsu -- manjawab juo inyo maso itu, O Tuan kanduang Kambang Luari -- sajak samulo denai tagahkan Tuan pai -- ka galanggang Puti Santan Batapih -- tapi Tuan tidak namuah denai tagahkan -- kini lah iko ka jadinyo.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+inyo: inyo,inyo,inyo
+urang: urang,urang,urang
+juo: juo,juo
+maso: maso,maso,maso
+namuah: manamu,panamu
+Kambang: Kambang,Kambang,Kambang
+jadinyo.: sajadi-j
+sajak: sajak,sajak,ajak
+tapi: tapi,tapi,tapi
+Tuan: Tuan,Tuan,Tuan
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

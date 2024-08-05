@@ -1,0 +1,5 @@
+Please correct the OCR output in Minangkabau language:
+Kununlah si Magek Manandin -- dibukak malah bungkusan nantun -- dicaliak malah pamakaman tu -- lalu dimakan basugiro -- sanan bakato Magek Manandin, *Adiak kanduang si buruang Nuri -- barakaik mamintak pado Allah -- sehat lah raso badan hambo -- kok tidak pulo Adiak nan manolong -- antah lapuak jadi tanah.
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Minangkabau language with proper punctuation and spacing.
+Output:

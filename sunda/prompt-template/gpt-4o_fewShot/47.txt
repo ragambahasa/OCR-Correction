@@ -1,0 +1,18 @@
+Please correct the OCR output in Sundanese language:
+Sim kuring amit dek ngidung, diajar lagu Kinanti, min- angka jadi landongna, ka nu kapidara tadi, nyuhunkeun widi gamparan, manawi temah baribin.
+
+To help with the ocr correction task, here is some pairs of words inside the input text and its similar words from sundanese dictionary, you can correct an ocr output by using some pairs below as a reference for OCR-Correction Task:
+nu: nu,nu,nu
+Sim: Sim,Sim,Sim
+lagu: lagu,lagu
+widi: widi,widi
+angka: angka,angka,angka
+Kinanti,: Kinanti
+manawi: manawa
+amit: amit,amit
+gamparan,: gamparan
+ka: ka,ka,ka
+
+Note: The OCR output may contain incorrect text due to unclear image quality. Please remove any incorrect substrings and correct the remaining text to produce the most accurate output.
+Desired Output: Corrected text in Sundanese language with proper punctuation and spacing.
+Output:
